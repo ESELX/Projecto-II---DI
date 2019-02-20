@@ -48,3 +48,6 @@ Projecto de Interacção: 50%
 Aulas: 20%
 +
 Apresentação de Portfolio 20%
+
+## Random!Random!Random!Random!Random!
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - façam refresh e vejam geração automática de pessoas que não existem na realidade através de morphing sobre profiles de pessoas que existem;
