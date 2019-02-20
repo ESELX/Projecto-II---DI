@@ -3,19 +3,19 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 
 ## Aula 1
 
-- Apresentação Professor e alunos;
-- Apresentação de Programa e Actividades;
+- Apresentação Professordhjaldksfchçdksi e alunos;
+- Apresentação de Program xzc<x c<xzxca e Actividades;
 - Controlo de versões GIT, configuração [Github](github.com) e [Github Desktop](desktop.github.com);
 - Apresentação de Desafios [Pixels Camp](https://pixels.camp/) e Bootcamp ACE PL;
 - Projecto 1 - Portfolio
 
-### TPC
+### TPCcscmnsadc<cfklnbdsvlkbDSV D BVBDSV
 
-- ver videos:
+- ver videos:werwerwerwer
   - [How the Internet Works for Developers - Pt 1 - Overview & Frontend - YouTube](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
-  - [How the Internet Works for Developers - Pt 2 - Servers & Scaling - YouTube](https://www.youtube.com/watch?v=FTAPjr7vgxE)
-- experimentar alterar livremente qualquer template do HTML5Upnet ou exemplo simples de Framework([Bootstrap](https://getbootstrap.com/) ou [Skeleton](http://getskeleton.com/))
-  - **Atenção!!** deverão experimentar livremente, ver codigo fonte e inspeccionar com as developer tools do Firefox.
+  - [How the Internet Worrwerwerwerks for Developers - Pt 2 - Servers & Scaling - YouTube](https://www.youtube.com/watch?v=FTAPjr7vgxE)
+- experiDFASDfasdfadsFASDFADADSmentar alterar livremente qualquer template do HTML5Upnet ou exemplo simples de Framework([Bootstrap](https://getbootstrap.com/) ou [Skeleton](http://getskeleton.com/))
+  - **Atenção!!** dFDasfadsfadsFdasfwereverão experimentar livremente, ver codigo fonte e inspeccionar com as developer tools do Firefox.
   - **Pontos extra** para quem documentar este processo com fotos e passo-a-passo num ficheiro Markdown!
 
 ## Aula 2
