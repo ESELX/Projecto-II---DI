@@ -14,8 +14,9 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 - ver videos:
   - [How the Internet Works for Developers - Pt 1 - Overview & Frontend - YouTube](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
   - [How the Internet Works for Developers - Pt 2 - Servers & Scaling - YouTube](https://www.youtube.com/watch?v=FTAPjr7vgxE)
-- experimentar alterar livremente qualquer template do HTML5Upnet ou exemplo simples de Framework([Bootstrap](https://getbootstrap.com/)Skeleton](http://getskeleton.com/)) - Atenção!! deverão experimentar livremente, ver codigo fonte e inspeccionar com as developer tools do Firefox.
-- pontos extra para quem documentar este processo com fotos e passo-a-passo num ficheiro Markdown!
+- experimentar alterar livremente qualquer template do HTML5Upnet ou exemplo simples de Framework([Bootstrap](https://getbootstrap.com/) ou [Skeleton](http://getskeleton.com/))
+  - **Atenção!!** deverão experimentar livremente, ver codigo fonte e inspeccionar com as developer tools do Firefox.
+  - **Pontos extra** para quem documentar este processo com fotos e passo-a-passo num ficheiro Markdown!
 
 ## Aula 2
 - .
@@ -31,7 +32,7 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 - [Atom](https://atom.io/) ou [Brackets](http://brackets.io/) - Editores de Texto
 - [Html5UP.net](html5up.net)
 - [Bootstrap](https://getbootstrap.com/)
-- [Skeleton](http://getskeleton.com/))
+- [Skeleton](http://getskeleton.com/)
 
 ## Programa de Trabalho no Módulo (versão resumida de referencia)
 
