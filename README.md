@@ -1,6 +1,14 @@
 ﻿# AulasProjecto2
 Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 
+
+André Rocha
+arocha@eselx.ipl.pt
+
+
+
+
+
 ## Aula 1
 
 - Apresentação Professor e Alunos;
