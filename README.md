@@ -1,6 +1,7 @@
 ﻿# AulasProjecto2
 Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 
+
 ## Aula 1
 
 - Apresentação Professor e Alunos;
@@ -44,6 +45,7 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 - [Html5UP.net](http://html5up.net)
 - [Bootstrap](https://getbootstrap.com/)
 - [Skeleton](http://getskeleton.com/)
+- [W3Schools](https://www.w3schools.com/)
 
 ## Programa de Trabalho no Módulo (versão resumida de referencia)
 
