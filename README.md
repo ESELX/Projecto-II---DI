@@ -10,7 +10,7 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 
 ### Links Aulas
 
-- [GitHub Classroom Portfolio](https://classroom.github.com/classrooms/25587371-projecto-iii-design-de-interaccao-i)
+- [GitHub Classroom Portfolio](https://classroom.github.com/a/8xbmK91I)
 - [Apresentação da Aula](https://github.com/ESELX/AulasProjecto2/tree/master/Aula%202/GitHubClassroom.pdf)
 
 ### TPC
