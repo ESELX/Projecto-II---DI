@@ -19,6 +19,17 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
   - **Pontos extra** para quem documentar este processo com fotos e passo-a-passo num ficheiro Markdown!
 
 ## Aula 2
+
+- Criação de repositório Github para Portfolio pessoal;
+- Operações GIT;
+- Factores que deverão pesar na Escolha de Templates Base html e css;
+- Html e CSS para customização de Templates (Técnicas);
+
+### Links Aulas
+
+- [GitHub Classroom Portfolio](https://classroom.github.com/classrooms/25587371-projecto-iii-design-de-interaccao-i)
+
+
 - .
 - .
 - .
