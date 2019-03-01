@@ -3,7 +3,7 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 
 ## Aula 2
 
-- Criação de repositório Github para Portfolio pessoal;
+- Criação de repositório Github para Portfolio pessoal;;
 - Operações GIT;
 - Factores que deverão pesar na Escolha de Templates Base html e css;
 - Html e CSS para customização de Templates (Técnicas);
