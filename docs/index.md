@@ -1,8 +1,8 @@
 ---
+Title: Design de Interacção I - Projecto II - AVT ESELX
+Description: Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 ---
 
-﻿# AulasProjecto2
-Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 
 ## Aula 2
 
