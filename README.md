@@ -50,6 +50,7 @@ Apontamentos e Sumários das Aulas de Design de Interacção Projecto 2
 ## Referencias
 
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- [convert Markdown to HTML](https://markdowntohtml.com/)
 - [Atom](https://atom.io/) ou [Brackets](http://brackets.io/) - Editores de Texto
 - [Html5UP.net](http://html5up.net)
 - [Bootstrap](https://getbootstrap.com/)
