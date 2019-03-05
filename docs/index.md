@@ -17,7 +17,7 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 - HTML reference e formas de publicação de conteúdos (texto, imagens, videos);
 - Optimização de conteúdos (definições ideais e *bulk image and video optimizers*)
 
-### Links Aulas
+### Refs Aula
 
 - [W3Schools HTML Tag Reference](https://www.w3schools.com/tags/default.asp)
 - [Inkscape](https://inkscape.org/)
@@ -40,7 +40,7 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 - Factores que deverão pesar na Escolha de Templates Base html e css;
 - Html e CSS para customização de Templates (Técnicas);
 
-### Links Aulas
+### Refs Aula
 
 - [GitHub Classroom Portfolio](https://classroom.github.com/a/8xbmK91I)
 - [Apresentação da Aula](https://github.com/ESELX/AulasProjecto2/tree/master/Aula%202/GitHubClassroom.pdf)
