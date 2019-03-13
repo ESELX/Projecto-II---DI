@@ -8,6 +8,24 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 
 # Aulas!
 
+## Aula 4
+
+- Revisão GIT;
+- Mostra e partilha das experiencias;
+- Introdução ao CSS.
+
+### Refs Aula
+
+- [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
+- [W3Schools HTML Tag Reference](https://www.w3schools.com/tags/default.asp)
+
+
+### TPC
+
+- Continuar a trabalhar na organização introdução de conteúdos de portfolio pessoal no site;
+- Pontos extra para quem mantiver um "Diário de Bordo" das experiencias, avanços e recuos, em Markdown, no ficheiro README.md.
+
+
 ---
 ## Aula 3
 
