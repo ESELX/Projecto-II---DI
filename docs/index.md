@@ -6,7 +6,7 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 [AULAS](index.html) | [PROGRAMA](programa.html) | [REFERÊNCIAS](refs.html) | [Professor](http://steam228.com)
 
 
-# Aulas!
+# Aulas
 
 ## Aula 4
 
