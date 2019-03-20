@@ -1,0 +1,274 @@
+﻿/* ------------
+        Pre-Loading
+        --------------- */
+
+.preLoading{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  background: url(../images/layout/loading.gif) center no-repeat #ffffff;
+}
+
+/* ------------
+        LOADING
+        --------------- */
+#overLoading {
+  background-color: rgba(0, 0, 0, 0.46);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  top: 0;
+}
+
+#overLoading img,
+#overLoading > div
+{
+  position: absolute;
+  background-color:white;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  margin:auto;
+}
+
+#overLoading > div
+{
+  text-align:center;
+  padding:40px 0;
+  width:420px;
+  height:271px;
+}
+
+@keyframes anim-rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  display: inline-block;
+  animation: anim-rotate 1.5s infinite linear;
+  text-shadow: 0 0 .25em rgba(255,255,255, .3);
+}
+
+#overLoading > div > span.spinner.icon-preloader
+{
+  font-size:93px;
+  color:#158cba;
+  margin-bottom:15px;
+}
+
+#overLoading > div > span:not(.spinner)
+{
+  font-size:25px;
+  color:#54667a;
+}
+
+.ui-autocomplete-loading
+{
+  background-position:98% center!important;
+}
+
+@media (max-width:767px) and (orientation:portrait){
+  #overLoading > div
+  {
+    width: 80%;
+    height: 210px;
+  }
+
+  #overLoading > div > span.spinner.icon-preloader
+  {
+    font-size:65px;
+  }
+
+  #overLoading > div > span:not(.spinner)
+  {
+    font-size:18px;
+  }
+}
+
+
+/* ------------
+        MODAL
+        --------------- */
+
+.modal-title {
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #3b579d;
+}
+
+.bootbox.modal.fade {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+  z-index: 99999;
+}
+
+.modal-content {
+  border-radius: 0 !important;
+}
+
+.modal-open {
+  overflow: auto !important;
+}
+
+.modal-footer,
+.modal-header {
+  border-top: 0 none;
+  border-bottom: 0 none;
+}
+
+.modal-footer > button {
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.modal-header button.close {
+  font-weight: 700;
+  color: #3b579d;
+  font-size: 24px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  line-height: 16px !important;
+  opacity: 1 !important;
+}
+
+body.modal-open
+{
+  padding-right:0!important;
+}
+
+
+/* ------------
+        RADIO / CHECKBOXES
+        --------------- */
+
+.radioBoxContainer input[type=radio],
+.checkBoxContainer input[type=checkbox]
+{
+  display: none;
+}
+
+.radioBoxContainer span:before,
+.checkBoxContainer span:before
+{
+  content: "";
+  display: inline-block;
+  margin-left: 10px;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  margin-top: -2px;
+  vertical-align: middle;
+  background-color: white;
+  border: 1px solid #B7B7B7;
+}
+
+.radioBoxContainer span:before
+{
+  border-radius: 50%;
+}
+
+.radioBoxContainer input[type=radio]:checked + span:before,
+.checkBoxContainer input[type=checkbox]:checked + span:before
+{
+  content: "\2713";
+  font-size: 13px;
+  color: #3b579d;
+  text-align: center;
+  line-height: 15px;
+}
+
+/* ------------
+        COOKIES
+        --------------- */
+
+#cookiesBox {
+  width: 100%;
+  min-height: 30px;
+  z-index: 99999;
+  text-transform: uppercase;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+#cookiesBox.theme1 {
+  background: #000;
+}
+#cookiesBox.theme2 {
+  background: #D2D2D2;
+}
+#cookiesBox.theme3 {
+  background: #FFF;
+}
+#cookiesBox a {
+  font-size: 10px;
+  color: #737373;
+  text-decoration:none;
+}
+#cookiesBox > div {
+  line-height: 18px;
+  padding: 5px;
+  margin: 0 auto;
+  position: relative;
+}
+#cookiesBox > div div {
+  font-size: 10px;
+  display: inline;
+}
+#cookiesBox.theme1 > div div {
+  color: #FFF;
+}
+#cookiesBox.theme2 > div div {
+  color: #262626;
+}
+#cookiesBox.theme3 > div div {
+  color: #868686;
+}
+#cookiesBox > div > a {
+    background: no-repeat top left;
+    padding-left: 15px;
+    float: right;
+    bottom: 0;
+    text-decoration: none;
+    position: absolute;
+    line-height: 24px;
+    /* top: 0; */
+    padding-bottom: 2px;
+    right: 30px;
+}
+@media (max-width: 1199px) {
+  #cookiesBox {
+    position: fixed;
+    bottom: 0;
+  }
+}
+@media (max-width: 991px) {
+  #cookiesBox {
+    position: fixed;
+    bottom: 0;
+  }
+}
+@media (max-width: 480px) {
+  #cookiesBox {
+    position: fixed;
+    bottom: 0;
+  }
+  #cookiesBox > div div {
+    font-size: 10px;
+    width: 90%;
+    line-height: 16px;
+    margin-top: 20px;
+    display: block;
+  }
+  #cookiesBox > div > a {
+    float: right;
+    margin-right: 15px;
+  }
+}

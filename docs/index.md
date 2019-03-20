@@ -8,6 +8,27 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 
 # Aulas
 
+## Aula 5
+
+- Revisão GIT/HTML;
+- (extra) Organização de Portfolio
+- Mostra e partilha das experiencias;
+- Media queries em CSS.
+
+### Refs Aula
+
+- [W3Schools Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+### TPC
+
+- Continuar a trabalhar na organização introdução de conteúdos de portfolio pessoal no site;
+- Pontos extra para quem mantiver um "Diário de Bordo" das experiencias, avanços e recuos, em Markdown, no ficheiro README.md.
+
+
+
+
+
+
 ## Aula 4
 
 - Revisão GIT;

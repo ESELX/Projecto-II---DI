@@ -1,0 +1,378 @@
+﻿#CmsSite_MappedSearch_Search_dsi{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#6A6A6A;
+	width:284px;
+	position:relative;
+}
+.hasPlaceholder{
+	color:#A9A9A9;
+}
+/* Overwrite jquery ui css BEGIN */
+.ui-autocomplete{
+	max-height:300px;
+	overflow-y:auto; /* prevent horizontal scrollbar */
+	overflow-x:hidden;
+	z-index:99999 !important;
+}
+/* IE 6 doesn't support max-height
+    * we use height instead, but this forces the menu to always be this tall
+    */
+* html .ui-autocomplete{
+	height:300px;
+}
+/* Overwrite jquery ui css END */
+
+/* Overwrite Agentes.css BEGIN */
+#ColunaEsq{
+	background-position:top;
+	background-image:none;
+}
+#Pesquisa{
+	padding-bottom:0px;
+}
+
+.CmsSite_MappedSearchResult_TableShowFilters_dsi{
+	width:100%;
+	border-spacing:0px;
+}
+.CmsSite_MappedSearchResult_RowShowFilters_dsi{
+	height:35px;
+	background-image:url(/Files/System/CmsSite/images/top_pesquisa_back.png);
+	color:white;
+	display:inline-block;
+	width:100%;
+}
+.ui-autocomplete-loading{
+	background:white url(/Files/System/CmsSite/images/ui-anim_basic_16x16.gif) right center no-repeat;
+}
+
+.CmsSite_MappedSearch_FilterCheckbox{
+	display:inline-block;
+	float:left;
+}
+.CmsSite_MappedSearch_TableFilterLineSeparator_dsi{
+	background-color:White;
+	height:1px;
+}
+
+.CmsSite_MappedSearch_NoPadding_dsi{
+	padding-top:0px !important;
+}
+
+#CmsSite_MappedSearch_Search_dsi{
+	padding:10px 0;
+	margin-bottom:15px;
+	border:1px solid #83A91D;
+}
+#CmsSite_MappedSearch_Search_dsi .calendario{
+	margin-left:10px;
+	margin-top:7px;
+	width:24px;
+	float:left;
+}
+#CmsSite_MappedSearch_Search_dsi h1{
+	margin-left:15px;
+	font:11px Tahoma, Arial;
+	text-transform:uppercase;
+	color:#949494;
+	margin-top:15px;
+}
+#CmsSite_MappedSearch_Search_dsi p{
+	font:12px Tahoma, Arial;
+	text-transform:uppercase;
+	color:#949494;
+	float:left;
+	margin-right:10px;
+	margin-top:6px;
+}
+#CmsSite_MappedSearch_Search_dsi .tableSlide{
+	float:left;
+	margin-left:15px;
+}
+#CmsSite_MappedSearch_Search_dsi input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]){
+	font-size:10px;
+	border:1px solid #6A6A6A;
+	color:#6A6A6A;
+	height:20px;
+	padding:0 0 0 3px;
+	margin:2px 0 0 10px;
+	width:260px;
+}
+#CmsSite_MappedSearch_Search_dsi .CmsSite_MappedSearch_SearchBtn_dsi{
+	margin:12px 0px 12px 0px;
+	float:right;
+	width:80px;
+	background:#F7F7F7;
+	padding:2px;
+	color:#575A5D;
+	border:1px solid #AAAAAA;
+}
+#CmsSite_MappedSearchResult_TableFilterButton .CmsSite_MappedSearch_SearchBtn_dsi{
+	margin:12px 15px 12px 0px;
+	float:right;
+	width:80px;
+	padding:2px;
+	color:#575A5D;
+	border:1px solid #AAAAAA;
+}
+.CmsSite_MappedSearchResult_Header_dsi{
+	width:225px;
+	height:35px;
+}
+.CmsSite_MappedSearchResult_Header_dsi span{
+	display:block;
+	color:#FFFFFF;
+	font-size:16px;
+	font-family:Arial, Helvetica;
+	padding:9px 12px;
+	text-transform:uppercase;
+	background-repeat:repeat-x;
+	margin-right:70px;
+}
+.CmsSite_MappedSearchResult_LeftColumn_dsi{
+	width:265px;
+	float:left;
+	margin-right:7px;
+}
+.CmsSite_MappedSearch_RequiredMsg_dsi{
+	font-size:12px;
+	font-family:Arial, Helvetica;
+	font-weight:normal;
+	font-style:normal;
+	color:#707070;
+	line-height:normal;
+	margin-left:15px;
+}
+.CmsSite_MappedSearch_SearchOptions_dsi{
+	margin-left:15px;
+	font:11px Tahoma, Arial;
+	color:#949494;
+}
+.CmsSite_MappedSearch_SearchOptions_radio_checkbox_top_dsi{
+	display:inline-block;
+	float:left;
+	width:89px;
+	padding:2px 0px 2px 0px;
+}
+.CmsSite_MappedSearch_SearchOptions_radio_checkbox_dsi{
+	display:inline-block;
+	float:left;
+	width:100px;
+	padding:2px 0px 2px 0px;
+}
+#CmsSite_MappedSearch_Search_dsi input[type="checkbox"]{
+	width:20px;
+	background-color:transparent;
+	border-color:transparent;
+	margin-top:4px !important;
+}
+.CmsSite_MappedSearch_SearchOptions_checkbox_dsi{
+	display:inline-block;
+	float:left; /*width:15px;*/
+	padding:4px 2px 2px 0px;
+}
+.CmsSite_MappedSearch_SearchOptions_label_dsi{
+	margin-top:6px;
+	padding:2px 2px 2px 2px;
+	float:left;
+	width:83px;
+}
+.clear{
+	clear:both;
+}
+#CmsSite_MappedSearch_Search_dsi .CmsSite_MappedSearch_SearchOptions_dsi{
+	margin-bottom:5px;
+}
+#CmsSite_MappedSearch_Search_dsi .CmsSite_MappedSearch_SearchOptions_dsi input{
+	margin-left:0px;
+	margin-top:0px;
+	padding:0px;
+	width:auto;
+	float:none;
+	text-transform:none;
+	border-width:0px;
+}
+#CmsSite_MappedSearch_Search_dsi .CmsSite_MappedSearch_SearchOptions_dsi label{
+	/*padding-right:15px;*/
+	text-transform:none;
+	vertical-align:top;
+	color:#575A5D;
+}
+.CmsSite_MappedSearch_LineSeparator_dsi{
+	background:url(/files/System/Agentes/Layout/bg_FundoLogin.gif) repeat-x left bottom;
+	height:10px;
+	width:200px;
+}
+.CmsSite_MappedSearch_Hidden_dsi{
+	display:none !important;
+}
+.CmsSite_MappedSearch_Autocomplete_Green{
+	color:#CBD886 !important;
+	font-weight:bold !important;
+}
+.CmsSite_MappedSearch_Autocomplete_Gray{
+	color:#575A5D !important;
+}
+a.del_friend span, a.del_friend{
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	margin:0 0 0 5px;
+}
+a.del_friend{
+	border:1px solid #CCCCCC;
+	padding:3px 5px;
+	text-decoration:none;
+}
+a.del_friend span{
+	padding:0 5px;
+	background:#CCCCCC;
+}
+#CmsSite_MappedSearchResult_TableSearch{
+	border-spacing:0px;
+}
+.ui-menu-item img{
+	float:left;
+	padding-right:5px;
+}
+.circuit-search-choice img{
+	float:left;
+	padding-right:5px;
+	position:relative;
+	top:-2px;
+}
+.circuit-search-choice span{
+	vertical-align:middle;
+}
+.cruise-search-choice img{
+	float:left;
+	padding-right:5px;
+	position:relative;
+	top:-2px;
+}
+.cruise-search-choice span{
+	vertical-align:middle;
+}
+.ui-menu-item-wrapper .geographic-area{
+	width:16px;
+	height:16px;
+	background-image:url(/Files/System/CmsSite/images/sprites.png);
+	background-position:-74px -10px;
+	display:inline-block;
+}
+.ui-menu-item-wrapper .country{
+	width:16px;
+	height:16px;
+	background-image:url(/Files/System/CmsSite/images/sprites.png);
+	background-position:-10px -10px;
+	float:left;
+	padding-right: 25px;
+	margin-top: 5px;
+}
+.ui-menu-item-wrapper .city{
+	width:16px;
+	height:16px;
+	background-image:url(/Files/System/CmsSite/images/sprites.png);
+	background-position:-40px -10px;
+	float:left;
+	padding-right: 25px;
+	margin-top: 5px;
+}
+.ui-menu-item-wrapper .location{
+	width:16px;
+	height:16px;
+	background-image:url(/Files/System/CmsSite/images/sprites.png);
+	background-position:-10px -10px;
+	float:left;
+	padding-right: 25px;
+	margin-top: 5px;
+}
+.ui-menu-item-wrapper .package{
+	width:16px;
+	height:16px;
+	background-image:url(/Files/System/CmsSite/images/sprites.png);
+	background-position:-102px -10px;
+	float:left;
+	padding-right: 25px;
+	margin-top: 5px;
+}
+.SPAN_CmsSite_MappedSearchResult_CounterLoading{
+	width:16px;
+	height:16px;
+	background-image:url(/Files/System/CmsSite/images/loading.gif);
+	display:inline-block;
+}
+.CmsSite_MappedSearch_NavigationTitle_dsi{
+	display:block;
+	padding:5px 10px;
+	background-color:#83A91D;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, Sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	margin:4px 5px;
+}
+.CmsSite_MappedSearch_header{
+	font-size:12px;
+	color:#515151;
+	background-color:#F0F0F0;
+	font-weight:bold;
+	padding:6px;
+	margin:6px;
+}
+#CmsSite_MappedSearch_Search_dsi select{
+	font-size:10px;
+	border:1px solid #6A6A6A;
+	color:#6A6A6A;
+	height:21px;
+	margin:2px 0px 6px 10px;
+	width:265px;
+}
+#CmsSite_MappedSearch_Search_dsi .title{
+	display:block;
+	font-family:Arial, Helvetica, Sans-serif;
+	font-size:11px;
+	margin-top:5px;
+	margin-left:12px;
+}
+#CmsSite_MappedSearch_Submit_dsi, #CmsSite_MappedSearch_Submit_dsi:active{
+	width:130px;
+	height:27px;
+	cursor:pointer;
+	background-image:url("/Files/System/CmsSite/images/btn_pesquisar_on3.jpg");
+	background-repeat:no-repeat;
+	border:0;
+	background-color:#FFFFFF;
+	background-position:center;
+	position:relative;
+	left:147px;
+}
+#CmsSite_MappedSearch_Submit_dsi:hover{
+	background-image:url("/Files/System/CmsSite/images/btn_pesquisar_rollover3.jpg");
+}
+#CmsSite_MappedSearch_Reset_dsi:hover{
+	background-image:url("/Files/System/CmsSite/images/btn_limpar_rollover3.jpg");
+}
+#CmsSite_MappedSearch_Reset_dsi, #CmsSite_MappedSearch_Reset_dsi:active{
+	width:125px;
+	height:27px;
+	cursor:pointer;
+	background-image:url("/Files/System/CmsSite/images/btn_limpar_on3.jpg");
+	background-repeat:no-repeat;
+	border:0;
+	background-color:#FFFFFF;
+	background-position:center;
+	position:absolute;
+	left:10px;
+}
+.CmsSite_MappedSearch_SelectedDate_dsi a{
+	background-color:#42B373 !important;
+	background-image:none !important;
+	color:#FFFFFF !important;
+}
+.CmsSite_MappedSearch_datepicker_trigger{
+	margin-left:1px;
+	position:absolute;
+	margin-top:4px;
+}

@@ -1,0 +1,34 @@
+body {
+
+  text-align: center;
+  margin-left: 10vw;
+  margin-right: 10vw;
+
+}
+
+
+
+h1 {
+  font-size: 3.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+
+
+
+@media only screen and (max-width: 400px) {
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+}

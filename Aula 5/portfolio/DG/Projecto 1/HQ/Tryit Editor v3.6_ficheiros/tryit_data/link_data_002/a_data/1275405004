@@ -1,0 +1,13 @@
+/* #617504500 */
+_oEa.pmdenyall = 0;
+_oEa.website("wecanimal");if (_oEa.isdef(typeof _oEa.uidset )) {_oEa.uidset("FkZhSb5eHsuWExxzL6cq2xsw9VMClASowD79kZ4mT3xuQxJnLHJz9A--");}var _EaCP = {"cgip" : _oEa.hcgi,"heatmap":"homepage","tp":{"":""}};EA_heatmap('homepage',1 );_oEa.consentmp = function() {_oEa.gloadjs("https://ew3.io/consent/ox5.zr3.2mT7.NjXczMGnm3rkKvHmI5_CBu7pY7zONhTjVzmXIGOMc46GyLO/?r=&u=",function(){if (_oEa.isdef(typeof _oEa3rdu) && _oEa.isdef(_oEa3rdu)) {_oEa.gloadimg("https://we.wecanimal.pt/e3/wecanimal/?u=" + _oEa.esc( _oEa3rdu ));}});}
+_oEa.dcrun = function() {
+_oEa.dcrundone = {};
+if (_oEa.pmdenyall) { return; }
+};
+_oEa.mtrun = function() {
+_oEa.mtrundone = {};
+if (_oEa.pmdenyall) { return; }
+};
+_oEa.mtdcrun = function() {_oEa.mtrun();_oEa.dcrun();};_oEa.mtdcrun();_oEa.consentmp();_oEa.websiteend();
+ /* end !config */
