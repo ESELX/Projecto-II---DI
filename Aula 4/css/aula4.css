@@ -1,0 +1,28 @@
+
+
+ body {
+   background-color: #afb8c6;
+ }
+
+ h1,h2 {
+   color:#165dcc;
+   background-color: white;
+   margin-left: 20vw;
+ }
+
+ p {
+   margin-left: 10vw;
+   margin-right: 15vw;
+ }
+
+ img {
+   margin-left: 20vw;
+   border: 5px solid red;
+ }
+
+ .batatas {
+   font-family: sans-serif;
+   background-color: #457259;
+   color: #fff;
+   margin: 5vw 20vw 5vw 20vw;
+ }
