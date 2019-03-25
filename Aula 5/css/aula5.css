@@ -4,12 +4,16 @@ body {
   margin-left: 10vw;
   margin-right: 10vw;
 
+
 }
 
 
 
 h1 {
   font-size: 3.5em;
+  padding: 4vw;
+  border-style: dotted;
+  border-width: thick;
 }
 
 h2 {
@@ -24,11 +28,23 @@ p {
 
 
 @media only screen and (max-width: 400px) {
+
+  body {
+
+    text-align: center;
+    margin-left: 5vw;
+    margin-right: 5vw;
+
+  }
+
   h1 {
-    font-size: 2em;
+    font-size: 1em;
+    padding: 4vw;
+    border-style: dotted;
+    border-width: thin;
   }
 
   h2 {
-    font-size: 1.5em;
+    font-size: 1em;
   }
 }
