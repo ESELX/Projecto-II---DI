@@ -1,0 +1,3 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body><script>(function(b){if(b.addEventListener){b.addEventListener("message",function(a){if("set"==a.data.action)localStorage.setItem(a.data.name,a.data.string);else if("get"==a.data.action){var c=localStorage.getItem(a.data.name);b.parent.postMessage({action:"callback",id:a.data.id,data:c},"*")}else"remove"==a.data.action&&localStorage.removeItem(a.data.name)})}})(window);</script></body></html>

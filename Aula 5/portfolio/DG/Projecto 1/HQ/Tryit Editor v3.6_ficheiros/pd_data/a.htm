@@ -1,0 +1,27 @@
+<html>
+<head><title>Store Cookieless RTB Data</title></head>
+<body>
+<script type="text/javascript">
+  var BI_LS_KEY = 'OX_BI';
+  try {
+    var browserId = localStorage.getItem(BI_LS_KEY),
+        BI_QS = 'bi',
+        urlPrefix = 'https://eu-u.openx.net',
+        path = '/w/1.0/sd',
+        qa = 'id=539270434&val=3db9aafd-3efd-444a-8d95-d6f2a867feb0',
+        urlList = [ urlPrefix, path ];
+
+    if ( qa ) {
+      urlList = urlList.concat([ '?', qa ]);
+      if ( browserId ){
+        urlList =  urlList.concat([ '&', BI_QS, '=', browserId ]);
+      }
+      var url = urlList.join('');
+      (new Image()).src = url;
+    }
+  } catch(err) {
+    // fail to trigger cookieless sd request
+  }
+</script>
+</body>
+</html>

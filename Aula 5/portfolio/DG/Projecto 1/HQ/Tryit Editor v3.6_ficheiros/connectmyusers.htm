@@ -1,0 +1,12 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%">
+<script type="text/javascript">
+
+var ss=(function(){var pixelUrls=["https://sync-eu.connectad.io/syncer/1?gdpr=1"];var MINS=60*1000;var SMARTSYNC_CALLBACK='serverbidCallBids';var SYNC_COOKIE_TTL=10*MINS;var SYNC_COOKIE='sb_ss';var pixelsInFlight=[];var inSecure=window.location.protocol.indexOf('s')<0;function createPixel(src){var p=document.createElement('iframe');p.setAttribute("height","0px");p.setAttribute("width","0px");p.setAttribute("border","0");p.setAttribute("frameBorder","0");p.setAttribute("style","position:absolute;");p.onerror=function(){return this.style.display="none";};p.setAttribute("src",src);if(window[SMARTSYNC_CALLBACK]){p.onload=function(){var i=pixelsInFlight.indexOf(src);if(i>=0){pixelsInFlight.splice(i,1);}
+if(!pixelsInFlight.length){window[SMARTSYNC_CALLBACK]();}};pixelsInFlight.push(src);}
+document.body.appendChild(p);}
+function createCookie(){if(document.cookie.indexOf(SYNC_COOKIE)<0){var date=new Date();date.setTime(date.getTime()+ SYNC_COOKIE_TTL);return(document.cookie=SYNC_COOKIE+"; expires="+ date.toUTCString()+"; path=/"||1);}}
+if(createCookie()){for(var i=0;i<pixelUrls.length;i++){var pixelUrl=pixelUrls[i];if(inSecure||pixelUrl.match(/^https:/)){createPixel(pixelUrl);}}}else if(window[SMARTSYNC_CALLBACK]){window[SMARTSYNC_CALLBACK]();}});var waitForDOM=function(evt){if(evt.target.readyState==="interactive"){ss();}}
+document.addEventListener('readystatechange',waitForDOM,false);
+</script>
+</body></html>

@@ -1,0 +1,335 @@
+﻿/* CSS Document | https://icomoon.io/app */
+@font-face { font-family: 'Abreu'; src: url('../fonts/abreu/Abreu.eot?e3ik7i'); src: url('../fonts/abreu/Abreu.eot?e3ik7i#iefix') format('embedded-opentype'),  url('../fonts/abreu/Abreu.ttf?e3ik7i') format('truetype'),  url('../fonts/abreu/Abreu.svg?e3ik7i#Abreu') format('svg'); font-weight: normal; font-style: normal; }
+[class^="icon-"],
+[class*=" icon-"] { /* use !important to prevent issues with browser extensions that change fonts */
+font-family: 'Abreu' !important; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; /* Better Font Rendering =========== */
+-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+.icon-descontos-loja:before {
+  content: "\e964";
+}
+.icon-descontos-cartao:before {
+  content: "\e963";
+}
+.icon-campanhas-exclusivas:before {
+  content: "\e965";
+}  
+.icon-desconto:before {
+  content: "\e962";
+}
+.icon-erro-pesquisa:before {
+  content: "\e95d";
+}
+.icon-aparthotel-full:before {
+  content: "\e95c";
+}
+.icon-aparthotel:before {
+  content: "\e95b";
+}
+.icon-ajuste:before {
+  content: "\e957";
+}
+.icon-espectaculos:before {
+  content: "\e958";
+}
+.icon-excursoes:before {
+  content: "\e959";
+}
+.icon-preloader:before {
+  content: "\e95a";
+}
+.icon-transfer-in:before {
+  content: "\e954";
+}
+.icon-transfer-out:before {
+  content: "\e955";
+}
+.icon-refeicao:before {
+  content: "\e956";
+}
+.icon-aviao-ida:before {
+  content: "\e94f";
+}
+.icon-aviao-volta:before {
+  content: "\e950";
+}
+.icon-companhia-cruzeiros:before {
+  content: "\e951";
+}
+.icon-hotelbell:before {
+  content: "\e952";
+}
+.icon-regiao:before {
+  content: "\e953";
+}
+.icon-aviao:before {
+  content: "\e947";
+}
+.icon-aviao-full:before {
+  content: "\e948";
+}
+.icon-brochuras:before {
+  content: "\e949";
+}
+.icon-brochuras-full:before {
+  content: "\e94b";
+}
+.icon-noites:before {
+  content: "\e94d";
+}
+.icon-noites-full:before {
+  content: "\e94c";
+}
+.icon-calendario:before {
+  content: "\e94e";
+}
+.icon-cama:before {
+  content: "\e925";
+}
+.icon-cama-full:before {
+  content: "\e926";
+}
+.icon-tudo-incluido:before {
+  content: "\e927";
+}
+.icon-tudo-incluido-full:before {
+  content: "\e928";
+}
+.icon-circuitos:before {
+  content: "\e929";
+}
+.icon-megafone:before {
+  content: "\e92a";
+}
+.icon-noticias:before {
+  content: "\e92b";
+}
+.icon-novo:before {
+  content: "\e92c";
+}
+.icon-pdf:before {
+  content: "\e92d";
+}
+.icon-pequeno-almoco:before {
+  content: "\e92e";
+}
+.icon-pequeno-almoco-full:before {
+  content: "\e92f";
+}
+.icon-adulto:before {
+  content: "\e930";
+}
+.icon-adulto-full:before {
+  content: "\e931";
+}
+.icon-crianca:before {
+  content: "\e932";
+}
+.icon-crianca-full:before {
+  content: "\e933";
+}
+.icon-checked:before {
+  content: "\e934";
+}
+.icon-not-checked:before {
+  content: "\e935";
+}
+.icon-notas:before {
+  content: "\e936";
+}
+.icon-seta-baixo:before {
+  content: "\e937";
+}
+.icon-seta-baixo-fina:before {
+  content: "\e938";
+}
+.icon-seta-cima:before {
+  content: "\e939";
+}
+.icon-seta-cima-fina:before {
+  content: "\e93a";
+}
+.icon-email-circle:before {
+  content: "\e93b";
+}
+.icon-telefone-circle .path1:before {
+  content: "\e93c";
+  color: rgb(0, 0, 0);
+}
+.icon-telefone-circle .path2:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(2, 2, 2);
+}
+.icon-congressos:before {
+  content: "\e93e";
+}
+.icon-disney:before {
+  content: "\e93f";
+}
+.icon-empresas:before {
+  content: "\e940";
+}
+.icon-grupos:before {
+  content: "\e941";
+}
+.icon-estrela:before {
+  content: "\e942";
+}
+.icon-estrela-full:before {
+  content: "\e943";
+}
+.icon-fechar:before {
+  content: "\e944";
+}
+.icon-hamburguer:before {
+  content: "\e945";
+}
+.icon-select:before {
+  content: "\e946";
+}
+.icon-user:before {
+  content: "\e94a";
+}
+.icon-abreu-direto-grande:before {
+  content: "\e900";
+}
+.icon-abreu-direto-pequeno:before {
+  content: "\e924";
+}
+.icon-abreu:before {
+  content: "\1f311";
+}
+.icon-cronometro:before {
+  content: "\e901";
+}
+.icon-cruzeiros:before {
+  content: "\e902";
+}
+.icon-cv:before {
+  content: "\e903";
+}
+.icon-direita:before {
+  content: "\e904";
+}
+.icon-email:before {
+  content: "\e905";
+}
+.icon-erro:before {
+  content: "\e906";
+}
+.icon-esquerda:before {
+  content: "\e907";
+}
+.icon-facebook:before {
+  content: "\e908";
+}
+.icon-faqs:before {
+  content: "\e909";
+}
+.icon-ferias:before {
+  content: "\e90a";
+}
+.icon-google:before {
+  content: "\e90b";
+}
+.icon-hotel:before {
+  content: "\e90c";
+}
+.icon-info:before {
+  content: "\e90d";
+}
+.icon-instagram:before {
+  content: "\e90e";
+}
+.icon-lupa:before {
+  content: "\e90f";
+}
+.icon-mais:before {
+  content: "\e910";
+}
+.icon-menos:before {
+  content: "\e911";
+}
+.icon-mobile:before {
+  content: "\e912";
+}
+.icon-nada:before {
+  content: "\e913";
+}
+.icon-passatempos:before {
+  content: "\e914";
+}
+.icon-pin:before {
+  content: "\e915";
+}
+.icon-rent-a-car:before {
+  content: "\e916";
+}
+.icon-seta-direita-fina:before {
+  content: "\e917";
+}
+.icon-seta-direita:before {
+  content: "\e918";
+}
+.icon-seta-esquerda-fina:before {
+  content: "\e919";
+}
+.icon-seta-esquerda:before {
+  content: "\e91a";
+}
+.icon-sites:before {
+  content: "\e91b";
+}
+.icon-sucesso:before {
+  content: "\e91c";
+}
+.icon-telefone:before {
+  content: "\e91d";
+}
+.icon-twitter:before {
+  content: "\e91e";
+}
+.icon-user-full:before {
+  content: "\e91f";
+}
+.icon-voohotel:before {
+  content: "\e920";
+}
+.icon-voos:before {
+  content: "\e921";
+}
+.icon-wordpress:before {
+  content: "\e922";
+}
+.icon-youtube:before {
+  content: "\e923";
+}
+
+.icon-entradas:before {
+  content: "\e95e";
+}
+.icon-cursos:before {
+  content: "\e95f";
+}
+.icon-equipamento:before {
+  content: "\e960";
+}
+.icon-forfaits:before {
+  content: "\e961";
+}
+.icon-jornal:before {
+  content: "\e966";
+}
+.icon-lojasaderentes:before {
+  content: "\e967";
+}
+.icon-flytap:before {
+  content: "\e968";
+}
+.icon-agenda:before {
+  content: "\e969";
+}
+.icon-seloVA:before {
+  content: "\e96a";
+}

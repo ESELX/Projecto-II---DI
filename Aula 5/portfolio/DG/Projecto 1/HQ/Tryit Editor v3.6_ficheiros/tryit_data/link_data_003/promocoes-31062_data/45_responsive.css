@@ -1,0 +1,1867 @@
+﻿@charset "UTF-8";
+/* CSS Document */
+
+/* CSS Document */
+
+/*-----MD-----*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+
+/*Footer Nav e Social*/
+.termosCondicoes { padding-top: 15px;padding-bottom: 15px;padding-right:0;padding-left:0; }
+.level2 { margin-top: 15px; }
+.FootSocial a { padding: 4px 0 0 0 !important; }
+  
+/*express*/
+.express {font-size: 20px !important;padding:5px 0;}  
+  
+.termosCondicoes ul li {float:right;}
+.termosCondicoes li {padding-left:0;padding-right:15px;}
+.termosCondicoes li:first-child {padding-left:0;}
+.termosCondicoes li:first-child::after {content: "";padding-left:0;}
+
+/*Footer Icons*/
+.FootIcons { padding-bottom: 15px; border-bottom: 1px solid #dddddd; }
+.footDirecto .numero a { margin: 0px; font-size: 80px; color: #7e9521; text-decoration: none; margin-top: -28px; }
+.iconBox { padding-right: 0px; margin-right: 11px; margin-bottom: 11px; }
+.iconBox a { margin: 0px; float: left; font-size: 29px; color: #54667a; text-decoration: none; }
+.iconBox a p { float: right; font-family: Lato, sans-serif; font-size: 10px; margin-top: 3px; margin-bottom: 3px; padding-top: 0; padding-right: 15px; padding-left: 10px; padding-bottom: 0; font-weight: bold; color: #54667a; text-transform: uppercase; line-height: 12px; }
+.FootMarcas .fraseLegal { font-size: 10px; }
+  
+/*Destaques*/
+.lrec h1 { font-size: 18px; color: #54667a; font-weight: 400; text-transform: uppercase; }
+.lrec img { margin-top: 15px; }
+
+.emDestaque h2 {font-size: 35px;line-height: 35px}
+.emDestaque h3 {font-size: 14px;line-height: 14px}  
+.emDestaque .desde {font-size: 18px;line-height: 18px}
+.emDestaque .preco {font-size: 35px; line-height: 35px;}
+.pubProd div:not(.bxslider) a {margin-top:10px;}
+.pubProd .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {right: 15px;}
+  
+.dskProduto .dskDestino { position: absolute; bottom: 8%; left: 4%; line-height:16px;}
+.dskProduto .dskDestino p {  font-size: 16px; font-weight: 700; color: #FFFFFF; }
+.dskProduto:hover .dskInfo {display:none;}
+.dskProduto .dskInfo { position: absolute; bottom: 1%; left: 4%; line-height:12px;}
+.dskProduto .dskInfo p { font-size: 12px; color: #FFFFFF; }
+.dskProduto:hover .dskPreco {display:none;}
+.dskProduto .dskPreco { position: absolute; bottom: 8%; right: 4%; color: #FFFFFF; line-height:16px;}
+.dskProduto .dskPreco p { font-size: 16px; font-weight: 700; }
+
+/*Main Menu*/
+.navbar-default .navbar-nav > li > a { font-size: 11px; padding:15px 10px 14px 10px;}
+
+/*Product Slider*/
+  
+.bx-wrapper div.bxSliderBlock { max-width: 323px !important; }
+.bx-prev { left: -15px !important; }
+.bx-next { right: -15px !important; }
+
+/*Jumbo Top*/
+.jumbTop .jmbInfo { padding: 90px 0; }
+.jumbTop .jmbInfo .destino { font-size: 80px; color: #FFFFFF; font-weight: 300; line-height: 70px;text-transform:uppercase;}
+.jumbTop .jmbInfo .subTitulo { font-size: 30px; color: #FFFFFF; font-weight: 300; line-height: 30px; }
+
+/*Jumbo Foot*/
+.jumbFoot .jmbTop p { font-size: 16px; color: #FFFFFF; font-weight: 300;line-height: 20px; }
+.jumbFoot .paragraphHeader h2 { font-size: 35px; color: #FFFFFF; font-weight: 300; line-height: 40px; }
+  
+/*Generic Header*/  
+.genericHeader .bigSpacing {margin:90px 0;}
+.genericHeader h1 {font-size: 80px; color: #FFFFFF; font-weight: 300; line-height: 70px;text-transform:uppercase;}
+.genericHeader h2 {font-size: 35px; color: #FFFFFF; font-weight: 300; line-height: 40px;}
+.genericHeader .paragraphText {font-size: 16px; color: #FFFFFF; font-weight: 300;line-height: 20px;}
+.genericHeader .paragraphText p {font-size: 30px; color: #FFFFFF; font-weight: 300; line-height: 30px;} 
+.genericHeader img.imgBF {position:relative;  min-width: auto; min-height: auto;margin-left:0; width:400px;}
+
+/*Quad Prod
+.dskTOP5 .smImage {width:100%;height:171px;}*/
+.dskTOP5 .lgImage {width:100%;height:447px;}
+.dskTOP5 { margin-bottom: 30px;position: relative; background-color: #FFFFFF; }
+.dskTOP5 .titTop5 { position: absolute; top: 15px; left: 15px; text-transform: uppercase; font-size: 40px; color: #FFFFFF; font-weight: 300; line-height: 40px; margin: 0; padding: 0; }
+.dskTOP5 .infoTOP5 { background-color: #FFFFFF; padding-top: 10px; padding-bottom: 10px; }
+.dskTOP5 .infoTOP5 .numTop5 { font-size: 30px; color: #40c5a4; font-weight: 300; line-height: 30px; }
+.dskTOP5 .infoTOP5 .destinoTop5 h1 { font-size: 16px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskTOP5 .infoTOP5 .destinoTop5 p { font-size: 12px; color: #54667a; font-weight: 400; line-height: 14px; }
+.dskTOP5 .infoTOP5 .precoTop5 { font-size: 16px; color: #158cba; font-weight: 400; }
+  
+/*Quad Lista
+.dskLista .smImage {width:100%;height:171px;}*/
+.dskLista .lgImage {width:100%;height:447px;}
+.dskLista { margin-bottom: 30px;position: relative; background-color: #F1F1F1; }
+.dskLista .titTop5 { position: absolute; top: 15px; left: 15px; text-transform: uppercase; font-size: 40px; color: #FFFFFF; font-weight: 300; line-height: 40px; margin: 0; padding: 0; }
+.dskLista .infoTOP5 { background-color: #F1F1F1; padding-top: 10px; padding-bottom: 10px; }
+.dskLista .infoTOP5 .numTop5 { font-size: 30px; color: #40c5a4; font-weight: 300; line-height: 30px; }
+.dskLista .infoTOP5 .destinoTop5 h1 { font-size: 16px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5 .destinoTop5 p { font-size: 12px; color: #54667a; font-weight: 400; line-height: 14px; }
+.dskLista .infoTOP5 .precoTop5 { font-size: 16px; color: #158cba; font-weight: 400; }  
+  
+.dskLista .infoTOP5BF .destinoTop5 h1 { font-size: 16px;  font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5BF .destinoTop5 p { font-size: 12px;  font-weight: 400; line-height: 14px; }
+.dskLista .infoTOP5BF .precoTop5 { font-size: 16px;  font-weight: 400; }    
+  
+/*OP Lista*/
+.opTopDesde span {padding-top:5px;padding-right:31px;}
+.opTopTitle h2 {font-size: 18px;color: #54667a;font-weight: 700;margin: 0px; text-transform: uppercase;padding-top:15px;}
+.opTopTitle p {height: 25px; margin-bottom: 0; font-size: 11px; color: #54667a; font-weight: 400; line-height: 15px;}
+.imglstDestinos .opTexto { line-height: 14px; padding-top:2px;}
+.imglstDestinos .opTexto a { font-size: 14px; text-decoration: none; color: #54667a; line-height: 15px }  
+
+/*Topo Pesquisa*/
+.titPesquisa { color: #54667a; font-size: 35px; text-align: center; font-weight: 300; }
+.titPesquisa .paragraphText span[class^='icon'] { color: #158cba; margin-right: 15px;font-size: 45px; }
+  
+/*Top Destinos*/  
+.topTeaser {font-size: 35px; line-height: 35px; }
+  
+/* Brochuras */
+.brcTop h1 {font-size:40px;line-height:60px;}
+.brcTitle h2 {font-size:25px; line-height:35px;}
+.brcTop p {font-size:14px; color:#FFFFFF;line-height:24px;margin-bottom:20px;}
+.brcLevel1 {margin-bottom:25px;}
+.brcLevel2 {margin-bottom:10px;}
+  
+/*Footer*/
+.FootNewsleter p {font-size:14px;margin-top:5px}  
+
+/* Promoções */
+#grid > #posts .post { width: 455px; }
+.lstBlockPromo {margin-bottom: 30px;}
+.lstPromocoesText {font-size: 18px; font-weight: 400;color: #FFFFFF; line-height: 20px;  margin-top: 30px;width:80%;}
+.lstPromocoes .topTeaser  {font-size: 35px; line-height: 35px; }
+.lstLista .destino a { font-size: 14px; line-height: 15px; }
+.lstLista .texto a { font-size: 12px; line-height: 13px; }
+.lstLista .topPreco a { font-size: 20px; line-height: 20px; }
+.textPrmLista p { font-size: 27px; line-height: 27px;  }
+.iconPrm span[class^="icon"] { padding: 12px; font-size: 25px;}
+
+/*Tabs*/
+.tabInfoDestino {margin-top:20px; margin-bottom:30px;}
+.tabInfoDestino h1 {font-size: 16px; line-height: 18px; color: #54667a; font-weight: 700; margin-top:10px}
+.tabInfoDestino p { font-size: 14px; line-height: 17px; color: #54667a; font-weight: 400; margin-top:10px}
+
+/*Carrousel*/
+.tabSlideInfoArea p { font-size: 17px; font-weight: 300; color: #374553; line-height: 19px; float: left; }
+.tabSlideInfoArea p a { font-size: 14px; font-weight: 300; color: #374553; text-decoration: none; float: left; }
+.tabSlideInfoArea span { font-size: 14px; font-weight: 300; color: #374553; line-height: 18px; float: left; margin: 15px 0; }
+.tabSlideInfo { font-size: 14px; font-weight: 400; color: #374553; font-weight: 400; line-height: 16px; }
+.carousel-control.left { margin-left: 7px; margin-top: 165px; }
+.carousel-control.right { margin-top: 160px; margin-right: 660px; }
+.carousel-inner .active.left { left: -25%; }
+.carousel-inner .next        { left:  25%; }
+.carousel-inner .prev		 { left: -25%; }
+.carousel-control .icon-seta-esquerda-fina {font-size:25px;color:#FFFFFF;}
+.carousel-control .icon-seta-direita-fina {font-size:25px;color:#FFFFFF;}
+
+/*Descritivo Hotel*/
+.goBack p {color: #54667a;font-size: 16px; line-height: 16px; text-transform:uppercase; text-decoration:none;margin-top:10px;font-weight: 400;}
+
+/*Exclusivo Top Header*/
+.tabTopDsk .icon-pin {font-size:80px;line-height: 100px;color:#FFFFFF;}
+.tabTopDsk .jmbInfo { padding: 60px 0; }
+.tabTopDsk .jmbInfo .tabdestino { font-size: 70px; color: #FFFFFF; font-weight: 400; line-height: 60px;text-transform:uppercase;}
+.tabTopDsk .jmbInfo .tabsubTitulo { font-size: 16px; color: #54667a; font-weight: 300;  margin-top:30px;}
+
+.tabTopDsk .jmbInfo .distico {width: 85px; height: 85px; border-radius: 85px; background:#FFFFFF; position:absolute; top:0; right:30px;}
+.tabTopDsk .jmbInfo .distico .inText {font-size: 16px; font-weight: 400; line-height: 18px;color: #54667a;padding-top:26px}
+/*------------------*/
+.tabTopInfoType { font-size: 14px; color: #158cba; font-weight: 300; padding:4px 10px; background:#FFFFFF;width:80%;text-transform:uppercase;margin-bottom:15px;}
+
+/*Tabela Hoteis*/
+.no-more-tables table th { font-size: 12px; padding: 10px 5px !important;}
+.rwd-table td { font-size: 12px; padding: 10px 5px !important;}
+
+.maisVendidoTitle {font-family: Lato, sans-serif; font-size: 40px; line-height: 45px; font-weight: 300; color: #158cba;}
+.melhorPreco {float:right;font-family: Lato, sans-serif; font-size: 45px; line-height: 45px; font-weight: 400; color: #54667a;}
+.maisInclui {float:left;margin-right:15px;}
+.maisInclui p { float: left; color: #54667a; font-size: 25px; margin-right: 5px; margin-top:0; margin-bottom:0; margin-left:0;}
+.maisInclui .icon-rent-a-car { float: left; color: #158cba; font-size: 35px; width: 35px; height: 35px; margin-top: 3px; }
+
+/*Mapa*/
+.portugal {background-image: url(/files/Billeder/Abreu2016/Geral/pt_mapa.png); background-repeat: no-repeat; background-position: /*center center*/-1px 11px;}
+.mapa { width:100%;height: 360px; }
+
+/*Contactos TOP*/
+.nav-tabs.nav-justified > .active > a,
+.nav-tabs.nav-justified > .active > a:hover,
+.nav-tabs.nav-justified > .active > a:focus { font-size: 13px;}
+.nav-tabs.nav-justified > li > a { font-size: 13px;}
+
+.gen-info .contacto {font-size:16px;line-height:20px;}
+
+.cntTop .paragraphText h1 {font-size:20px; color:#158cba;line-height:30px;font-weight:300;margin-top:65px;}
+.cntTop .paragraphText * {font-size:18px; color:#54667a;line-height:22px;font-weight:300;}
+
+/*Recrutamento*/
+.cdtFicha .maximoTamanho {font-size:16px;padding-top:16px;}
+#recruitmentForm .panel-title > a {font-size: 18px;}
+#recruitmentForm h2 a:before {width: 36px;font-size: 22px;height: 36px;}
+.DMForms .panel-title span[class^="icon-"] {margin-top:5px}
+
+/*Formularios*/
+.DMForms .maximoTamanho {font-size: 16px;padding-top: 16px;}
+    
+/*Image List*/
+.topDesde span {padding-right:32px;}
+.imglstPreco a { font-size: 14px; color: #158cba; text-decoration: none; font-weight: 700; }
+.imglstSeta {padding-top: 0;margin-left:5px; }
+.imglstSeta a { font-size: 12px; color: #54667a; text-decoration: none; }
+.imglstIcon span[class^=icon-]{padding-top:2px;}
+  
+/*Black Friday*/ 
+.imglstPrecoAntesBF a { font-size: 12px; padding-top:0;}
+.imglstPrecoBF a { font-size: 14px;}
+.imglstSetaBF {padding-top: 0;}
+.imglstSetaBF a { font-size: 12px; padding-top: 0px;}
+/*------------*/    
+  
+/*Image List Pequena*/
+.topDesdeSmall span {padding-right:29px;}
+.lstPrmPreco a { font-size: 13px; color: #158cba; text-decoration: none; font-weight: 700; padding-top: 2px;}
+.lstPrmSeta { padding-top:0; margin-left:4px; }
+.lstPrmSeta a { font-size: 10px; color: #54667a; text-decoration: none; }
+.lstPrmIcon span[class^=icon-]{padding-top:4px;font-size:14px;}  
+
+/************* ATC ***************/
+.titulosAtc li {margin-bottom:0;}
+.titulosAtc, .titulosAtc a { font-size: 30px; font-weight: 300; line-height: 35px; color: #ffffff; }
+.bgATC .bx-wrapper .bx-controls-direction a {top: 15%;}
+.bgATC .bx-wrapper .bx-prev {left:0 !important;}
+.bgATC .bx-wrapper .bx-next {right:70% !important;}
+/*jmbTop*/
+.jumbFoot .jmbTop h2 { font-size: 35px; color: #FFFFFF; font-weight: 300; line-height: 40px;text-transform:uppercase;}
+/*pills*/
+.faqs .nav-pills > li.active > a,
+.faqs .nav-pills > li.active > a:hover,
+.faqs .nav-pills > li.active > a:focus { font-size: 18px; }
+.faqs .nav-pills > li > a,
+.faqs .nav-pills > li > a:hover,
+.faqs .nav-pills > li > a:focus { font-size: 18px; }
+.faqs .accordion-toggle { font-size: 14px; }
+.jmbPages h1 { font-size: 45px; line-height: 48px; margin-bottom: 30px; }
+.jmbPages h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.jmbPages .paragraphText { font-size: 16px; line-height: 21px; margin-bottom: 30px; }
+.jmbPages .paragraphButton { margin-top: 15px; ; line-height: 35px; }
+.jmbPages .paragraphButton a { font-size: 20px; padding: 10px 40px; }
+
+/************* Passatempos ***************/
+.titSites /*.paragraphHeader*/ h1 {margin-bottom: 40px;}
+.sitesCircle .h2 { font-size: 16px; line-height: 19px; height: 38px; margin-bottom: 15px; }
+.sitesCircle img { width: 150px; height: 150px; }
+
+.passatempos .paragraphText {color: #54667a; font-size: 16px; font-weight: 300; line-height: 19px}
+.passatempos .paragraphText button,.passatempos .paragraphText a {border-radius:0;border:0;}
+.passatempos .passCirc { width: 290px; height: 290px; border-radius: 50%; }
+.apoio h2 {color: #54667a; font-size: 12px;margin-bottom:15px;}
+.apoio img {display:inline-block;}
+  
+/************* Home Search ***************/  
+.rating > label {font-size:12px;margin-top: 3px;}
+.homeSearchForms .checkBoxContainer {font-size:13px;}
+.homeSearchForms .row:not(:first-of-type) label.select:after {position: absolute}
+.homeSearchForms .row:first-of-type select {padding-left: 15px!important;}
+.homeSearchForms .row:first-of-type select + span {display:none;}
+/* .xs-noPadding.pubProd {padding-left:0!important;padding-right:0!important;}*/
+
+/*Serviços*/  
+.brcCheques h2 {margin-top: -260px; border-top: 260px solid transparent;}
+.brcCredito h2 {margin-top: -260px; border-top: 260px solid transparent;}
+.brcRentCar h2 {margin-top: -260px; border-top: 260px solid transparent;}
+.brcSeguros h2 {margin-top: -260px; border-top: 260px solid transparent;}
+.brcLuasmel h2 {margin-top: -260px; border-top: 260px solid transparent;}
+.brcComboios h2 {margin-top: -260px; border-top: 260px solid transparent;}
+.brcOutros h2 {margin-top: -260px; border-top: 260px solid transparent;}
+  
+  
+/************* Salsa ***************/
+.salsa h1 {font-size:14px; line-height: 16px; margin-bottom: 30px;}
+.salsa h2 {font-size:18px; line-height: 22px;}
+.salsa .paragraphText p {font-size:14px;line-height:16px;margin-bottom:30px;}  
+  
+/******* Continente ***********/
+.titMAContinente h1 {font-size:35px;line-height: 35px; }
+.titMAContinente h1 span {font-size:35px;line-height: 35px;}
+.titMAContinente h2 {font-size:20px;line-height: 20px;}
+.titMAContinente h2 span {font-size:20px;line-height: 20px; }  
+
+
+/*Destaque 1 Produto*/ 
+.promoBlock1P .prmPreco p { font-size: 40px; line-height: 40px; float: right; }
+.promoBlock1P .prmVerOfertas .btn1P {padding: 10px;width: 185px;font-size:22px; font-weight: 400; line-height: 20px;}  
+.promoBlock1P .prmExtra p {margin-top:20px;} 
+  
+/*Disney - Contador*/
+.counterBlock .cntContador {padding: 15px 0 ;position: relative; }
+.counterBlock .cntContador .titulo {color:#fff;font-size:40px;}	
+.counterBlock .cntContador p { font-size: 30px; font-weight: 300; color: #FFFFFF; line-height: 34px; margin: 0; padding: 15px 0;}
+.counterBlock .cntContador p b { font-size: 32px; font-weight: 700; color: #FFFFFF; line-height: 35px; }  
+}
+
+/*-----SM-----*/
+@media (min-width: 768px) and (max-width: 991px) {
+  
+
+  
+/* Controladores */
+.smHidden { display: none !important; visibility: hidden !important; }
+.smText-center { text-align: center !important }
+.smNoPadding { padding: 0 !important; }
+.homeSearchForms .rating {padding-bottom:7px;}
+.margemTB30 {margin-top:15px;margin-bottom:15px;}  
+.margemT180B30 { margin-bottom: 15px;}
+
+.listasTB30sp { margin-top: 0; margin-bottom: 0; }  
+.listasT30s { margin-top: 30px; margin-bottom: 0; }
+.listasT30sp { margin-top: 0; margin-bottom: 0; }
+.listasB30s { margin-top: 0; margin-bottom: 30px; } 
+.listasB30sp { margin-top: 0; margin-bottom: 0; }  
+  
+.imgHeightControl {height:336px;}  
+  
+ /*Main Menu*/
+.navbar-default .navbar-nav > li > a { font-size: 10px; text-transform: uppercase; color: #54667a; border-top: 1px solid transparent; padding:15px 6px 14px 6px; }
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus { color: #158CBA; border-top: 1px solid #54CC00; }
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus { color: #54667a; background-color: #FFFFFF; border-top: 1px solid #158CBA; }
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus { color: #158CBA; background-color: #f1f1f1; }
+.navbar-default .navbar-nav .open .dropdown-menu > li > a { font-size: 0.75em; color: #54667a; padding-top: 0px; }
+
+/*Slider*/
+#myCarousel { padding-top: 0px; }
+
+/*Footer Newsletter*/
+.FootNewsleter p { float: left; /*margin-left: 25px;*/ margin-top: 0.188em; font-family: Lato, Arial, sans-serif; font-size: 14px; line-height: 16px; }
+.FootNewsleter input[type="text"] { color: #98a5b5; line-height: 12px; font-size: 12px; border: solid 1px #ebebeb; padding: 0.55em; width: 100%; height: 48px; }
+.FootNewsleter button[type="submit"] { color: #ffffff; line-height: 12px; font-size: 12px; border: solid 1px #ffffff; padding: 0.55em; width: 100%; text-transform: uppercase; background: #158cba; height: 48px; }
+.FootNavSocial ul li p a { font-size: 11px; padding-right: 8px; font-weight: bold; text-transform: uppercase; margin-bottom: 5px; text-decoration: none; }
+.FootNavSocial ul ul li a { font-size: 10px; text-decoration: none; margin-bottom: 3px; color: #8e9ba9; text-transform: uppercase; }
+.FootSocial { margin-top: 25px; border-bottom: 0; padding-bottom: 0; }
+.FootSocial a { padding: 0 10px !important; }
+.termosCondicoes { padding-top: 20px; }
+.level2 { margin-top: 15px; }
+.express {font-size: 20px !important;width:50%;}   
+
+/*Footer Icons*/
+.FootIcons { padding-top:0;padding-bottom: 15px; border-bottom: 1px solid #dddddd; }
+.footDirecto .numero a { margin: 0px; font-size: 75px; color: #7e9521; text-decoration: none; margin-top: -28px; }
+.iconBox { padding-right: 0px; margin-right: 11px; margin-bottom: 20px; }
+.iconBox a { margin: 0px; float: left; font-size: 30px; color: #54667a; text-decoration: none; }
+.iconBox a p { float: right; font-family: Lato, sans-serif; font-size: 10px; margin-top: 3px; margin-bottom: 3px; padding-top: 0; padding-right: 15px; padding-left: 10px; padding-bottom: 0; font-weight: bold; color: #54667a; text-transform: uppercase; line-height: 14px; }
+
+.FootMarcas .fraseLegal { font-size: 10px; }  
+  
+/*Top Destinos*/
+.margemTopDestinos { margin-top: 25px; margin-bottom: 30px; }
+.topDestinos { font-size: 40px; color: #FFFFFF; line-height: 50px; text-transform: uppercase; margin-bottom: 35px; }
+.topTeaser {font-size: 30px; line-height: 30px; }
+.circ { width: 30px; height: 30px; border-radius: 30px; background: #ffffff; }
+.circ p {font-size: 18px;padding-top: 1px;}
+.topLstDestino .destino {line-height: 14px;}
+.topLstDestino .destino a { font-size: 13px;line-height: 14px;}
+.topLstDestino .texto {line-height: 12px;}
+.topLstDestino .texto a { font-size: 12px;line-height: 13px;}
+.topPreco a {font-size: 18px;}
+  
+/*Black Friday*/
+.topDestinosBF {   text-transform: uppercase; margin-bottom: 45px; }
+.topDestinosBF span { font-size: 60px;}
+.topDestinosBF strong { font-size: 60px;line-height: 25px;}
+.circBF { width: 30px; height: 30px; border-radius: 30px; background: #000000;}
+.circBF p { color: #ffffff; font-size: 18px;padding-top: 1px; }
+.topLstDestinoBF .destino {line-height: 14px;}
+.topLstDestinoBF .destino a { font-size: 13px; text-decoration: none; text-transform: uppercase; color: #000000; line-height: 17px; font-weight:700;/*letter-spacing: -1px;*/ }
+.topLstDestinoBF .texto {line-height: 12px;}
+.topLstDestinoBF .texto a { font-size: 12px; text-decoration: none; color: #000000; line-height: 15px }
+.topPrecoBF a { font-size: 18px; color: #ff4314; text-decoration: none; font-weight: 700; }
+.topPrecoAntesBF a { font-size: 14px; color: #000000; text-decoration: none; font-weight: 700; text-decoration: line-through;display:block; margin-top:1px;}
+/*------------*/  
+  
+
+/*Homepage - Image List*/
+.textLista { position: absolute; top: 3%; width: 100%; height: 100%; text-align: center; display: table; }
+.textLista small { font-size: 11px; color: #FFFFFF; text-transform: uppercase; }
+.textLista p { font-size: 25px; line-height: 25px; margin: 0; font-weight: 700; color: #FFFFFF; text-transform: uppercase; margin-bottom: 10px; }
+.textLista span[class^=icon-] { color: #ffffff; font-size: 20px; width: 25px; height: 25px; border-radius: 50%; /*background: #31d100;*/ padding: 7px; }
+.imglstDestinos .destino {line-height: 13px;}
+.imglstDestinos .destino a { font-size: 13px; text-decoration: none; text-transform: uppercase; color: #54667a; line-height: 14px; }
+.imglstDestinos .texto {line-height: 12px;}
+.imglstDestinos .texto a { font-size: 12px; text-decoration: none; color: #54667a; line-height: 14px }
+.imglstPreco a { font-size: 16px; color: #158cba; text-decoration: none; font-weight: 700; }
+.imglstSeta { padding-top: 0; }
+.imglstSeta a { font-size: 12px; color: #54667a; text-decoration: none; }
+.topDesde span {padding-right:37px;}
+.topDesdeSmall span {padding-right:37px;}
+
+/*OP Lista*/  
+.opTopDesde span {padding-top:5px;padding-right:37px;}
+.opTopTitle h2 {font-size: 18px;color: #54667a;font-weight: 700;margin: 0px; text-transform: uppercase;padding-top:15px;}
+.opTopTitle p {height: 25px; margin-bottom: 0; font-size: 11px; color: #54667a; font-weight: 400; line-height: 15px;}
+.imglstDestinos .opTexto { line-height: 14px; padding-top:2px;}
+.imglstDestinos .opTexto a { font-size: 14px; text-decoration: none; color: #54667a; line-height: 15px }
+
+/*Destaques*/
+.hpDestaque .paragraphText h1 { font-size: 40px; color: #158cba; font-weight: 300; margin: 0; }
+.hpDestaque .paragraphText { font-size: 14px; font-weight: 300; color: #8e9ba9; line-height: 21px; margin-top:15px;}
+.mrec h1 { font-size: 13px; color: #a9a9a9; font-weight: 700; margin-top: 0; }
+.lrec h1 { font-size: 16px; color: #54667a; font-weight: 400; text-transform: uppercase; }
+.lrec img { margin-top: 10px; }
+
+.emDestaque h2 {font-size: 35px;line-height: 35px}
+.emDestaque h3 {font-size: 14px;line-height: 14px}  
+.emDestaque p {top: 460px;}
+.emDestaque .desde {font-size: 18px;line-height: 18px}
+.emDestaque .preco {font-size: 35px; line-height: 35px;}
+.pubProd .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {bottom:15px;right: 15px;}  
+.pubProd div:not(.bxslider) a {margin-top:15px;}
+
+.dskProduto .dskDestino { position: absolute; bottom: 12%; left: 4%; line-height:16px;}
+.dskProduto .dskDestino p {  font-size: 16px; font-weight: 700; color: #FFFFFF; }
+.dskProduto:hover .dskInfo {display:none;}
+.dskProduto .dskInfo { position: absolute; bottom: 1%; left: 4%; line-height:12px;}
+.dskProduto .dskInfo p { font-size: 11px; color: #FFFFFF; }
+.dskProduto:hover .dskPreco {display:none;}
+.dskProduto .dskPreco { position: absolute; bottom: 12%; right: 4%; color: #FFFFFF; line-height:16px;}
+.dskProduto .dskPreco p { font-size: 16px; font-weight: 700; }
+
+/*Product Slider*/
+.bx-wrapper div.bxSliderBlock { max-width: 250px !important; }
+.bx-prev { left: 0px !important; }
+.bx-next { right: 0px !important; }
+.margemT30 {margin-top:15px;margin-bottom:-15px}
+.imageScr {margin-bottom:30px;}
+.imageScr .scrDestino { position: absolute; top: 3%; right: 4% }
+.imageScr .scrDestino p { font-size: 25px; font-weight: 700; text-transform: uppercase; color: #FFFFFF; }
+.imageScr .scrDestino span { font-size: 18px; line-height:18px; font-weight: 300; color: #FFFFFF; margin-bottom:15px;}
+.imageScr .scrPreco { position: absolute; bottom: -1%; left: 3%; }
+.imageScr .scrPreco span { font-size: 14px; font-weight: 400; color: #FFFFFF; line-height: 15px; }
+.imageScr .scrPreco p { font-size: 16px; font-weight: 700; color: #FFFFFF; line-height: 18px; }
+
+/*jumbo Top*/
+.jumbTop .jmbInfo { padding: 80px 0; }
+.jumbTop .jmbInfo .destino { font-size: 70px; color: #FFFFFF; font-weight: 300; line-height: 60px;text-transform:uppercase;}
+.jumbTop .jmbInfo .subTitulo { font-size: 30px; color: #FFFFFF; font-weight: 300; line-height: 30px; }
+
+/*Jumbo Foot*/
+.jumbFoot .paragraphButton {margin-bottom:15px;}
+.jumbFoot .paragraphHeader h2 { font-size: 45px; color: #FFFFFF; font-weight: 300; line-height: 55px;text-transform:uppercase;margin-top:15px;}
+
+/*.jumbFoot .paragraphHeader h2 { font-size: 27px; color: #FFFFFF; font-weight: 300; line-height: 32px; margin-top:15px;}*/
+.jumbFoot .jmbTop p { font-size: 16px; color: #FFFFFF; font-weight: 300;line-height: 20px; }
+.jumbFoot .jmbTop .verOfertas { text-align: center; margin-top:15px;; line-height: 33px; }
+.jumbFoot .jmbTop .verOfertas a { font-size: 18px; color: #FFFFFF; text-decoration: none; padding: 10px 40px; border: solid 1px #FFFFFF; text-transform: uppercase; }
+  
+/*Generic Header*/
+.genericHeader .bigSpacing {margin:80px 0;}
+.genericHeader h1 {font-size: 70px; color: #FFFFFF; font-weight: 300; line-height: 60px;text-transform:uppercase;}
+.genericHeader h2 {font-size: 45px; color: #FFFFFF; font-weight: 300; line-height: 55px;text-transform:uppercase;margin-top:15px;}
+.genericHeader .paragraphText {font-size: 16px; color: #FFFFFF; font-weight: 300;line-height: 20px;}
+.genericHeader .paragraphText p {font-size: 30px; color: #FFFFFF; font-weight: 300; line-height: 30px;}
+.genericHeader .paragraphButton { margin-top:30px; line-height: 35px; margin-bottom:15px;}
+.genericHeader img.imgBF {position:relative;  min-width: auto; min-height: auto;margin-left:0; width:325px;}
+
+/*Quad Prod*/
+.dskTOP5 .lgImage {width:100%;height:434px;}
+.dskTOP5 { margin-bottom: 30px;position: relative; background-color: #FFFFFF; }
+.dskTOP5 .titTop5 { position: absolute; top: 10px; left: 10px; text-transform: uppercase; font-size: 30px; color: #FFFFFF; font-weight: 300; line-height: 30px; margin: 0; padding: 0; }
+.dskTOP5 .infoTOP5 { background-color: #FFFFFF; padding-top: 15px; padding-bottom: 12px; }
+.dskTOP5 .infoTOP5 .numTop5 { font-size: 20px; color: #40c5a4; font-weight: 300; line-height: 20px; }
+.dskTOP5 .infoTOP5 .destinoTop5 h1 { font-size: 15px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskTOP5 .infoTOP5 .destinoTop5 p { font-size: 11px; color: #54667a; font-weight: 400; line-height: 13px; }
+.dskTOP5 .infoTOP5 .precoTop5 { font-size: 16px; color: #158cba; font-weight: 400; }
+.dskTOP5 .smImage {height:156px; }
+  
+/*Quad Lista*/
+.dskLista .lgImage {width:100%;height:434px;}
+.dskLista { margin-bottom: 30px;position: relative; background-color: #F1F1F1; }
+.dskLista .titTop5 { position: absolute; top: 10px; left: 10px; text-transform: uppercase; font-size: 30px; color: #FFFFFF; font-weight: 300; line-height: 30px; margin: 0; padding: 0; }
+.dskLista .infoTOP5 { background-color: #F1F1F1; padding-top: 15px; padding-bottom: 12px; }
+.dskLista .infoTOP5 .numTop5 { font-size: 20px; color: #40c5a4; font-weight: 300; line-height: 20px; }
+.dskLista .infoTOP5 .destinoTop5 h1 { font-size: 15px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5 .destinoTop5 p { font-size: 11px; color: #54667a; font-weight: 400; line-height: 13px; }
+.dskLista .infoTOP5 .precoTop5 { font-size: 16px; color: #158cba; font-weight: 400; }
+.dskLista .smImage {height:156px; }  
+  
+.dskLista .infoTOP5BF .destinoTop5 h1 { font-size: 15px;  font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5BF .destinoTop5 p { font-size: 11px;  font-weight: 400; line-height: 13px; }
+.dskLista .infoTOP5BF .precoTop5 { font-size: 16px; font-weight: 400; }  
+
+/*Topo Pesquisa*/
+.titPesquisa { color: #54667a; font-size: 30px; line-height:32px;text-align: center; font-weight: 300; }
+.titPesquisa .paragraphText span[class^='icon'] { color: #158cba; margin-right: 15px; font-size: 60px;}
+
+/* Full Text */
+.fullText {font-size: 18px; color: #54667a; font-weight: 300; line-height: 23px; }
+.fullTextSmall {font-size: 14px; color: #54667a; font-weight: 300; line-height: 19px; }
+
+/* Brochuras */
+.brcTop h1 {font-size:35px; line-height:50px;}
+.brcTitle h2 {font-size:20px; line-height:35px;}
+.brcTop p {font-size:14px; color:#FFFFFF;line-height:24px;margin-bottom:20px;}
+.brcLevel1 {margin-bottom:20px;}
+.brcLevel2 {margin-bottom:10px;}
+
+/* Promoções */
+.promoBlock {height: 285px;}
+.promoBlock .prmInfo p, .promoBlockSm .prmInfo p {width:60%}
+.promoBlockImage { height: 285px; margin-top:0;}
+.promoBlockSm {height: 200px;}
+.promoBlockImageSm { height: 200px; }
+  
+/*Destaque 1 Produto*/
+.promoBlock1P { height: 255px;margin-top:0;}
+.promoBlockImage1P { height: 255px; margin-top:0;}
+.promoBlockImage1P .circle-bar {top:20px; right:20px;left:auto;bottom:auto;} 
+.promoBlock1P .prmDestino h2 {font-size: 35px; line-height: 35px; text-align:left; }
+.promoBlock1P .prmDestino p { font-size: 18px; line-height: 18px;margin-top: 2px; text-align:left; }
+.promoBlock1P .prmInfo {width: 60%;  float: left;}
+.promoBlock1P .prmInfo p { font-size: 14px;font-weight: 400;color: #54667a;line-height: 15px;margin-top: 0;text-align: left;}
+.promoBlock1P .prmExtra {width: 40%;float: left;}
+.promoBlock1P .prmExtra p {font-size: 18px;font-weight: 700;color: #586A7D;line-height: 20px; margin-top: 0;text-align: right;}
+  
+.pubProd .circle-bar {top:auto; right:auto;left:20px;bottom:20px;} 
+
+/*BF*/
+/* Promoções */
+.promoBlockBF {height: 285px;}
+.promoBlockBF .prmInfo p, .promoBlockSmBF .prmInfo p {width:60%}
+.promoBlockImage { height: 285px; margin-top:0;}
+.promoBlockSmBF {height: 200px;}
+.promoBlockImageSm { height: 200px; }
+
+#grid > #posts .post { width: 345px; }
+
+.lstBlockPromo {margin-bottom: 30px;}
+.lstPromocoes { font-size: 40px; line-height: 40px;  }
+.lstPromocoesText {font-size: 16px; font-weight: 400;color: #FFFFFF; line-height: 18px;  margin-top: 20px;width:80%;}
+.lstPromocoes .topTeaser  {font-size: 30px; line-height: 30px; }
+  
+.topMask230 {height:73%;}
+.lstLista .destino a { font-size: 13px; line-height: 14px; }
+.lstLista .texto a { font-size: 12px; line-height: 13px; }
+.lstLista .topPreco a { font-size: 18px; line-height: 18px; }
+
+.textPrmLista { position: absolute; top: 15%; width: 100%; height: 100%; text-align: center; display: table; }
+.textPrmLista small { font-size: 14px; }
+.textPrmLista p { font-size: 35px; line-height: 35px;}
+.iconPrm span[class^="icon"] { padding: 10px; }
+
+.lstPrmDestinos .destino a { font-size: 16px;line-height: 18px; }
+.lstPrmDestinos .texto a { font-size: 14px;  line-height: 16px }
+.lstPrmPreco a { font-size: 20px; }
+.lstPrmSeta {padding-top:5px;}
+.lstPrmSeta a { font-size: 16px; }
+
+/*Tabs*/
+.tabInfoDestino {margin-top:15px; margin-bottom:20px;}
+.tabInfoDestino h1 {font-size: 16px; line-height: 18px; color: #54667a; font-weight: 700; margin-top:5px }
+.tabInfoDestino p { font-size: 14px; line-height: 17px; color: #54667a; font-weight: 400; margin-top:5px}
+
+.tabCondicoes .icon-mais { color: #1cbbb4; font-size: 40px; line-height: 40px; }
+.tabCondicoes .icon-menos { color: #ed1c24; font-size: 40px; line-height: 40px; }
+.tabCondicoes .icon-info { color: #54667a; font-size: 40px; line-height: 40px; }
+.tabCondicoes h2 { font-size: 16px; line-height: 18px; color: #54667a; font-weight: 400; text-transform: uppercase; margin-bottom: 20px; }
+.tabCondicoes p { font-size: 14px; line-height: 17px; color: #54667a; font-weight: 300; }
+.condInfo { font-size: 14px; }
+
+/*Itinerario*/
+.resumoTopoFim { margin: auto; color: #000000; font-weight: 300; font-size: 18px; line-height: 18px; width: 100px; height: 100px; border-radius: 100px; background: #f2f2f2; padding-top: 30px; text-transform: uppercase; }
+.resumoDia .dia {color: #158CBA; font-weight: 300; font-size: 20px; line-height: 20px;}
+.resumoDia .destino {color: #54667a; font-weight: 400; font-size: 16px; line-height: 18px;text-transform:uppercase;}
+.resumoDia .itinerario {color: #000000; font-weight: 300; font-size: 16px; line-height: 18px;}
+  
+/*Oportunidades*/
+.cdtOportunidades { margin-bottom: 60px;  border-bottom: 1px dotted #cccccc; padding-bottom: 60px; } 
+.cdtOportunidades:last-of-type {margin-bottom:15px; padding-bottom:15px;border-bottom:none;}  
+
+/*Carrousel*/
+.carousel-control.left { margin-left: 9px; margin-top: 130px; margin-right: 0px; }
+.carousel-control.right { margin-right: 520px; margin-top: 130px; margin-left: 0px; }
+.carousel-control .icon-seta-esquerda-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-control .icon-seta-direita-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-inner .active.left { left: -50%; }
+.carousel-inner .next { left: 50%; }
+.carousel-inner .prev { left: -50%; }
+.bgDestaque .active > div { display: none; }
+.bgDestaque .active > div:first-child { display: block; }
+.bgDestaque .active > div:first-child + div { display: block; }
+.carousel-control .icon-seta-esquerda-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-control .icon-seta-direita-fina { font-size: 25px; color: #FFFFFF; }
+.tabSlideInfoArea .icon-pin { font-size: 40px; color: #158cba; line-height: 40px; float: left; margin-right: 20px; margin-bottom: 15px; }
+.tabSlideInfoArea p { font-size: 18px; color: #374553; line-height: 20px; float: left; }
+.tabSlideInfoArea span { font-size: 14px; font-weight: 300; color: #374553; line-height: 16px; float: left; margin: 0; }
+.tabTopInfo { font-size: 14px; color: #374553; font-weight: 400; line-height: 16px; }
+
+/*Descritivo Hotel*/
+.goBack a.icon-esquerda { color: #158cba; font-size: 40px; text-decoration:none;}
+.goBack p {color: #54667a;font-size: 10px; line-height: 10px; text-transform:uppercase; text-decoration:none;margin-top:5px;font-weight: 400;}
+
+.alojDescritivo h1 { position: relative; color: #54667a; font-size: 20px; font-weight: 300; line-height: 20px; text-transform: uppercase; width: 90%; margin-top: 0px;}
+.alojDescritivo p {color: #54667a;font-size: 14px; font-weight: 400;line-height: 16px; margin-top:15px; }
+
+.alojDescritivo h1 .icon-star { margin-top:0; position: absolute; top: 1%; right: -5%; color: #158cba; font-size: 40px;   }
+.alojDescritivo h1 .icon-star .star { font-family: Lato, sans-serif; font-size: 30px; line-height: 30px; font-weight: 300; color: #158cba; position: absolute; top: 7%; left: 28%; }
+
+/*Hoteis Destaque*/
+.descricaoHotel { font-size: 13px; font-weight: 400; color: #54667a; line-height: 15px; margin-top: 0px; margin-bottom: 115px; }
+
+/*Exclusivo Top Header*/
+.tabTopDsk .icon-pin {font-size:80px;line-height: 100px;color:#FFFFFF;}
+.tabTopDsk .jmbInfo { padding: 80px 0; }
+.tabTopDsk .jmbInfo .tabdestino { font-size: 60px; color: #FFFFFF; font-weight: 400; line-height: 50px;text-transform:uppercase;}
+.tabTopDsk .jmbInfo .tabsubTitulo { font-size: 14px; color: #54667a; font-weight: 300;  margin-top:20px;}
+
+.tabTopDsk .jmbInfo .distico {width: 75px; height: 75px; border-radius: 75px; background:#FFFFFF; position:absolute; top:0; right:25px;}
+.tabTopDsk .jmbInfo .distico .inText {font-size: 14px; font-weight: 400; line-height: 16px;color: #54667a;padding-top:23px}
+/*------------------*/
+.tabTopInfoType { font-size: 13px; color: #158cba; font-weight: 300; padding:4px 7px; background:#FFFFFF;width:80%;text-transform:uppercase;margin-bottom:15px;}
+.tabTopInfoArea .icon-sucesso {font-size: 40px; color: #FFFFFF; line-height:40px;float:left;margin-right:20px}
+.tabTopInfoArea p {font-size: 18px; color: #FFFFFF; line-height:20px;float:left;}
+
+.tabTopInfo { font-size: 14px; color: #FFFFFF; font-weight: 400; line-height:16px;}
+
+/*Tabela*/
+.quadHotel .scrLocal { position: absolute; Bottom: 3%; left: 3%; }
+.quadHotel .scrLocal p { margin: 0; font-size: 13px; line-height: 13px; font-weight: 300; text-transform: uppercase; color: #FFFFFF; }
+
+.maisVendidoTitle {font-family: Lato, sans-serif; font-size: 30px; line-height: 35px; font-weight: 300; color: #158cba;}
+.melhorPreco {float:right;font-family: Lato, sans-serif; font-size: 45px; line-height: 45px; font-weight: 400; color: #54667a;}
+.maisInclui {float:left;margin-right:15px;}
+.maisInclui p { float: left; color: #54667a; font-size: 20px; margin-right: 5px; margin-top:0; margin-bottom:0; margin-left:0;}
+.maisInclui .icon-rent-a-car { float: left; color: #158cba; font-size: 25px; width: 25px; height: 25px; margin-top: 3px; }
+
+.no-more-tables table th { font-size: 12px; padding: 5px 5px !important;}
+.rwd-table td { font-size: 12px; padding: 5px 5px !important;}
+.htlNumber .icon-nada { position: relative; color: #158cba; font-size: 48px; width: 48px; height: 48px; }
+.htlNumber .icon-nada .star { font-family: Lato, sans-serif; font-size: 30px; line-height: 30px; font-weight: 400; color: #158cba; position: absolute; top: 15%; left: 30%; }
+
+.tblPreco {padding-bottom:5px;margin-bottom:5px}
+.tblPreco .total {font-family: Lato, sans-serif; font-size: 12px; line-height: 16px; font-weight: 300; color: #54667a;text-align:right;}
+.tblPreco .preco {font-family: Lato, sans-serif; font-size: 30px; line-height: 35px; font-weight: 400; color: #158cba;text-align:right;}
+
+.tblInfo {padding-bottom:5px;margin-bottom:5px; }
+.tblInfo .icon-info { margin:auto;color: #158cba; font-size: 28px; width: 28px; height: 28px; }
+.tblInfo .nota {text-align:center;font-family: Lato, sans-serif; font-size: 12px; line-height: 16px; font-weight: 300; color: #54667a;margin-top:5px;}
+
+/*Lojas*/
+.xsMargemT15 { margin-top: 15px; }
+.panel-group { border: none; margin-bottom: 0; }
+.zonas ul li {text-align:center;}  
+.zonas ul li .panel-title > a { font-family: 'Lato', sans-serif;font-size: 18px; padding: 10px 15px; font-weight: 300; text-decoration: none; outline: 0; color: #ffffff; background: #158cba; display: block; font-family: 'Lato', sans-serif;}
+.zonas ul li .panel-title > a.collapsed { font-family: 'Lato', sans-serif;font-weight:300;font-size: 18px; color: #158cba; background: #ffffff; text-transform: uppercase; }
+.zonas ul li .lojas { font-size: 16px; font-weight: 300; color: #54667a; }
+.zonas ul li .lojas span { font-size: 16px; font-weight: 300; color: #158cba; text-transform: uppercase; }
+.zonas ul li .lojas a.mail { font-family: 'Lato', sans-serif; font-size: 16px; font-weight: 300; color: #158cba; text-decoration: none; text-transform: lowercase; }
+.zonas ul li a.accordion-toggle { outline: 0; font-family: 'Lato', sans-serif; font-size: 14px; line-height: 16px; color: #54667a; text-decoration: none; }
+.zonas ul li a.accordion-toggle:hover { color: #158cba; }
+
+.mapa { width: 100%; height: 260px; }
+
+/*Contactos TOP*/
+.nav-tabs.nav-justified > .active > a,
+.nav-tabs.nav-justified > .active > a:hover,
+.nav-tabs.nav-justified > .active > a:focus { font-size: 11px;}
+.nav-tabs.nav-justified > li > a { font-size: 10px;}
+.gen-info .contacto {font-size:16px;line-height:20px;}
+.cntTop .paragraphText h1 {font-size:15px; color:#158cba;line-height:20px;font-weight:300;margin-top:50px;}
+.cntTop .paragraphText * {font-size:14px; color:#54667a;line-height:17px;font-weight:300;}
+
+/*Recrutamento*/
+.cdtFicha .maximoTamanho {font-size:16px;padding-top:16px;}
+#recruitmentForm .panel-title > a {font-size: 13px;}
+#recruitmentForm h2 a:before {width: 22px;font-size: 16px;height: 22px;line-height: 18px;}
+.DMForms .panel-title span[class^="icon-"] {margin-top:8px}
+
+/* Servicos */
+.brcCheques h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcCheques h3 { font-size: 18px; line-height: 21px; color: #FFFFFF; }
+.brcCheques .paragraphText { font-size: 14px; line-height: 17px;  }
+
+.brcCredito h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcCredito h3 { font-size: 18px; line-height: 21px; color: #FFFFFF; }
+.brcCredito figure {margin-bottom:15px;}
+.brcCredito .paragraphText { font-size: 14px; line-height: 17px;}
+.brcCredito .nota { font-size: 12px; line-height: 15px;}
+
+.brcRentCar h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcRentCar h3 { font-size: 18px; line-height: 21px; color: #FFFFFF; }
+.brcRentCar .paragraphText { font-size: 14px; line-height: 17px; }
+
+.brcSeguros h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; margin-top: -50px; border-top: 50px solid transparent;}
+.brcSeguros h3 { font-size: 18px; line-height: 21px; color: #FFFFFF; }
+.brcSeguros .paragraphText { font-size: 14px; line-height: 17px; }
+
+.brcLuasmel h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcLuasmel h3 { font-size: 18px; line-height: 21px; color: #FFFFFF; }
+.brcLuasmel .paragraphText { font-size: 14px; line-height: 17px; }
+.brcLuasmel.nota .paragraphText { font-size: 12px; line-height: 15px; }
+
+.brcComboios h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcComboios h3 { font-size: 18px; line-height: 21px; color: #FFFFFF;  }
+.brcComboios .paragraphText { font-size: 14px; line-height: 17px; }
+
+.brcOutros h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcOutros h3 { font-size: 18px; line-height: 21px; color: #FFFFFF; }
+.brcOutros .paragraphText { font-size: 14px; line-height: 17px;margin-bottom:30px; }
+.brcOutros a {font-size: 18px;line-height:18px;margin-bottom:30px!important;}
+.brcOutros > ul > li:last-child >a {margin-bottom:0!important;}
+
+/************* ATC ***************/
+/*jmbTop*/
+.jumbFoot .jmbTop h2 { font-size: 27px; color: #FFFFFF; font-weight: 300; line-height: 32px;text-transform:uppercase;}
+/*pills*/
+.faqs .panel-body { padding: 0; }
+.faqs .panel-heading { border-radius: 0; background: #158cba; }
+.faqs .panel-heading a { color: #FFF; }
+.borderRight { border-right: 0; }
+.borderLeft { border-right: 0; }
+.jmbPages h1 { font-size: 45px; line-height: 48px; margin-bottom: 30px; }
+.jmbPages h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.jmbPages .paragraphText { font-size: 16px; line-height: 21px; margin-bottom: 30px; }
+.jmbPages .paragraphButton { margin-top: 15px; ; line-height: 35px; }
+.jmbPages .paragraphButton  a { font-size: 20px; padding: 10px 40px; }
+/*Table*/
+.titulosAtc li {margin-bottom:0;}
+.titulosAtc, .titulosAtc a  { font-size: 30px; font-weight: 300; line-height: 35px; color: #ffffff; }
+.bgATC .bx-wrapper .bx-controls-direction a {top: 15%;}
+.bgATC .bx-wrapper .bx-prev {left:0 !important;}
+.bgATC .bx-wrapper .bx-next {right:70% !important;}
+.bgATC .no-more-tables h2 { color: #ffffff; margin-top: 0; margin-bottom: 15px; font-size: 18px; line-height: 21px; font-weight: 300; }
+.bgATC .no-more-tables, .bgATC .no-more-tables * { color: #ffffff; margin-top: 0;  font-size: 16px; /*margin-bottom: 15px;line-height: 19px;*/ font-weight: 300; }
+.bgATC .no-more-tables b { font-weight: 700; }
+.bgATC .no-more-tables table th { font-size: 12px; padding: 10px 5px !important; }
+.bgATC .atc-table td { font-size: 12px; padding: 10px 5px !important; }
+  
+.no-more-tables2 h2 { color: #ffffff; margin-top: 0; margin-bottom: 15px; font-size: 18px; line-height: 21px; font-weight: 300; }
+.no-more-tables2, .bgATC .no-more-tables2 * { color: #ffffff; margin-top: 0;  font-size: 16px; /*margin-bottom: 15px;line-height: 19px;*/ font-weight: 300; }
+.no-more-tables2 b { font-weight: 700; }
+.no-more-tables2 table th { font-size: 12px; padding: 10px 5px !important; }
+.atc2-table td { font-size: 12px; padding: 10px 5px !important; }  
+  
+  
+.htlNumber .icon-nada { position: relative; color: #158cba; font-size: 48px; width: 48px; height: 48px; }
+.htlNumber .icon-nada .star { font-family: Lato, sans-serif; font-size: 30px; line-height: 30px; font-weight: 400; color: #158cba; position: absolute; top: 15%; left: 30%; }
+
+
+/************* Passatempos ***************/
+.titSites /*.paragraphHeader*/ h2 {margin-bottom: 30px;}
+.sitesCircle .h2 { font-size: 16px; line-height: 19px; height: 38px; margin-bottom: 15px; }
+.sitesCircle img { width: 140px; height: 140px; }
+
+.passatempos .paragraphText {color: #54667a; font-size: 18px; font-weight: 300; line-height: 21px}
+.passatempos .paragraphText button,.passatempos .paragraphText a {border-radius:0;border:0;}
+.passatempos .passCirc { width: 250px; height: 250px; border-radius: 50%; display:inline-block; text-align: center;}
+.apoio h2 {color: #54667a; font-size: 12px;margin-bottom:15px;}
+.apoio img {display:inline-block; margin-bottom:30px;}
+  
+/************* HomeSearch ***************/
+#searchActionMenu + div{height: auto!important;}
+.rating > label {font-size:12px;}
+.homeSearchForms .btn-primary {margin-top:15px;}
+
+form[name='schFlightsForm'] .row:first-child fieldset,
+form[name='schHotelForm'] .row:first-child fieldset,
+form[name='schHotelAndFlightForm'] .row:first-child fieldset,
+form[name='schCruisesForm'] .row:first-child fieldset
+{
+  margin-bottom: 15px;
+}
+
+.homeSearchForms .row:not(:first-of-type){margin-top: 0}
+.homeSearchForms .row:not(:first-of-type):not(.rentingMoreInfo) label,.titleRating,.rating{padding-top: 0}
+.homeSearchForms .row:not(:first-of-type) label.select:after {position: absolute}
+
+
+/************* New Pub and Home Banner  ***************/
+.pubProd .xs-text-center {text-align: center;}
+/*.pubProd .xs-noPadding {padding: 0 !important}*/
+.pubProd div:not(.bxslider) a {float:none;overflow: hidden;}
+
+.pubProd .mrec {width:50%;margin-top:15px!important;}  
+.pubProd .mrec:first-child {margin-bottom:0;}
+  
+.imageDskList img {width:100%;}
+  
+.listasTB30s { margin-top: 15px; margin-bottom: -15px; }
+.listasTB30s:last-of-type {margin-bottom:15px}
+
+  
+/*Registo Newsletter*/   
+.regNwsTop .paragraphText {font-size:30px;line-height:35px;}
+.regNwsInfo	.regNwsInfoNum {font-size:35px;}  
+  
+  
+/************* Salsa ***************/
+.salsa h1 {font-size:14px; line-height: 16px; margin-bottom: 30px;}
+.salsa h2 {font-size:18px; line-height: 22px;}
+.salsa .paragraphText p {font-size:14px;line-height:16px;margin-bottom:30px;}  
+  
+/******* Continente ***********/
+.titMAContinente h1 {font-size:35px;line-height: 35px; }
+.titMAContinente h1 span {font-size:35px;line-height: 35px;}
+.titMAContinente h2 {font-size:20px;line-height: 20px;}
+.titMAContinente h2 span {font-size:20px;line-height: 20px; } 
+  
+  /*Disney - Contador*/
+.counterBlock .cntContador {padding: 15px 0 ;position: relative; }
+.counterBlock .cntContador .titulo {color:#fff;font-size:35px;}	
+.counterBlock .cntContador p { font-size: 30px; font-weight: 300; color: #FFFFFF; line-height: 34px; margin: 0; padding: 15px 0;}
+.counterBlock .cntContador p b { font-size: 32px; font-weight: 700; color: #FFFFFF; line-height: 35px; }  
+}
+
+
+@media (min-width: 768px) {
+.FootIcons li {
+    float: none!important;
+}
+/*Navegacao Home*/
+.navbar2-nav { float: left; margin: 0; }
+.navbar2-nav > li { float: left; }
+.navbar2-nav > li > a { padding-top: 15px; padding-bottom: 15px; }
+
+/*.smNoPadding { padding: 0 !important; }*/
+.smNoPaddingRight { padding-right: 0 !important; }
+.smNoPaddingLeft { padding-left: 0 !important; }
+
+.top25 { margin-top: 25px; }
+  
+/*-- Patrocinios e Termos --*/
+.patrocinios h1, .termos h1 {font-size:30px;line-height: 45px;}
+.patrocinios .paragraphText, .termos .paragraphText {font-size:14px;line-height:18px;}
+}
+
+/*-----XS-----*/
+@media (max-width: 767px) and (orientation: landscape)
+{
+  #searchActionMenu a i {font-size:30px!important;}
+}
+
+@media (max-width: 767px) {
+  
+ 
+  /*** passatempo - LP ***/
+  .txt_patrocinios {font-size: 25px !important;}
+  .legenda_passatempo{font-size: 22px;}
+
+.imgHeightControl {height:145px;}
+
+div.mainMenu.affix {position: static;width: 100%;top: 0!important;}
+.imageDskList img {width:100%;}
+.imageScr img {width:100%;}
+.safari-mac #searchActionMenu li:first-child{margin-left:-1px;}
+.safari-mac #searchActionMenu li:last-child{margin-right:-1px;}
+.margemT30 {margin-top:15px;margin-bottom:-15px}
+.margemT30B15 {margin-top: 15px;margin-bottom: 0px;}
+  
+.listasTB30sp { margin-top: 0; margin-bottom: 0; } 
+.listasT30s { margin-top: 15px; margin-bottom: 0; }
+.listasT30sp { margin-top: 0; margin-bottom: 0; }
+.listasB30s { margin-top: 0; margin-bottom: 15px; } 
+.listasB30sp { margin-top: 0; margin-bottom: 0; }
+  
+.imageScr {margin-bottom:30px;}
+#mainSearch {min-height:446px;}
+  
+/*Top 10*/
+.topDesdeWhite span {padding-right:19px}
+
+/*mainMenu*/
+.tbrand.affix, .mainMenu.affix { top: -1500px !important; }
+.dropdown-menu-right {margin-right: 0px;}
+.affix .affixLogoAbreu { display: none!important;}
+  
+/*Burger Menu*/
+.navbar-brand { height: 60px; padding-left:0!important;}
+.navbar-collapse { padding-right: 15px; padding-left: 15px; }
+.navbar-collapse.collapse.in { border-bottom: 2px solid #cccccc; background-color: #F8F8F8; }
+
+/*Controladores*/
+.topSpace { display: none !important; visibility: hidden !important; }
+.xsHidden { display: none !important; visibility: hidden !important; }
+.xsNoPadding { padding: 0 !important; }
+.xsNoPaddingRight { padding-right: 0 !important; }
+.xsNoPaddingLeft { padding-left: 0 !important; }
+.clearPadding { padding-left: 15px; padding-right: 15px; }
+.xsText-center { text-align: center !important }
+.xsNoMargin {margin: 0 !important;}
+  
+.margemTB30 {margin-top:15px;margin-bottom:15px;} 
+.listasTB30s { margin-top: 15px; margin-bottom: -15px; }
+.listasTB30s:last-of-type {margin-bottom:15px}  
+
+/*Slider*/
+#myCarousel { padding-top: 0px; }
+#myCarousel .nav-justified > li > a { margin-bottom: 2px; }
+
+/*Navegação Produtos*/
+.navbar-brand { margin-top: 7px; padding-top: 10px; height: 50px; }
+.icon-abreu:before { content: "\1f311"; color: #0658ae; font-size: 35px; height: 50px; }
+.navbar-nav { margin-top: 0; margin-bottom: 0 }
+.navbar-toggle { margin-top: 18px; }
+nav li a { text-transform: uppercase; color: #54667a; border-top: 0 !important; /*border-left: 10px solid transparent;*/ text-align: center;font-size: 14px!important;}
+
+#topFixedNavbar1.navbar-collapse.collapse.in {border-bottom:0!important;}
+.navbar-toggle {border-radius:0!important;}
+  
+nav li a:hover,
+nav li a:focus { color: #158CBA; background-color: #F1F1F1; border-top: 0; /*border-left: 10px solid #54CC00;*/ text-align: center;}
+  
+nav .active a,
+nav .active a:hover,
+nav .active a:focus { color: #54667a; /*border-left: 10px solid #158CBA;*/ position:relative;text-align: center; }
+  
+nav li a:hover:before,
+nav li a:focus:before,
+nav .active a:before,
+nav .active a:hover:before,
+nav .active a:focus:before { content:" ";width:10px;height:100%;position:absolute;background-color: #158CBA;top:0;left:0; }
+  
+nav li a:hover:before,
+nav li a:focus:before {background-color: #56e2bf;} 
+
+/*DropDown Menu Produtos*/
+.navbar-default .navbar-nav .open .dropdown-menu { padding-top: 0px; }
+.navbar-default .navbar-nav .open .dropdown-menu > li > a { font-size: 0.75em; text-transform: uppercase; color: #54667a; border-top: 1px solid transparent }
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus { color: #158CBA; border-top: 1px solid #54CC00; }
+
+/*Login Burger*/
+.xsheadLogin { font-size: 30px; margin-top: 18px; }
+.xsheadLogin a { color: #666666; text-decoration: none; }
+.xsheadLogin a:hover,
+.xsheadLogin a:focus { color: #158cba; text-decoration: none; }
+.popover { width: 100%; margin-right: 15px; }
+.mainMenu { border-top: 0 }
+.topMenu { border-bottom: 0; }
+
+/*Newsletter Footer*/
+.xsSpace { margin-bottom: 5px; }
+.FootNewsleter { padding-top: 15px; padding-bottom: 15px; }
+.FootNewsleter span { float: left; font-size: 35px; margin-right:15px;}
+.FootNewsleter p { /*float: left; margin-left: 10px;*/ margin-top: 3px; font-family: Lato, Arial, sans-serif; font-size: 16px; line-height: 18px; width: 100%; }
+.FootNewsleter input[type="text"] { color: #98a5b5; line-height: 14px; font-size: 14px; border: solid 1px #ebebeb; padding: 0.55em; width: 100%; height: 48px;margin-bottom:5px; }
+.FootNewsleter button[type="submit"] { color: #ffffff; line-height: 14px; font-size: 14px; border: solid 1px #ffffff; padding: 0.55em; width: 100%; text-transform: uppercase; background: #158cba; height: 48px; }
+.FootNavSocial ul li p a { font-size: 11px; padding-right: 8px; font-weight: bold; text-transform: uppercase; margin-bottom: 5px; text-decoration: none; }
+.FootNavSocial ul ul li a { font-size: 10px; text-decoration: none; margin-bottom: 3px; color: #8e9ba9; text-transform: uppercase; }
+.FootSocial { padding-bottom: 0; border-bottom: 0; }
+.FootSocial a { padding: 0 8px !important; }
+
+/*Links Termos e Condições*/
+.termosCondicoes { padding-top: 20px; }
+.termosCondicoes a { font-size: 9px; text-decoration: underline; color: #8e9ba9; }
+.termosCondicoes span { font-size: 8px; color: #8e9ba9; }
+
+.termosCondicoes ul li {float:none;}
+.termosCondicoes li {text-align:center;padding-left:0;}
+.termosCondicoes li:first-child {padding-left:0;}
+.termosCondicoes li:first-child::after {content: "";padding-left:0;}
+  
+  .express {font-size: 18px !important;padding:5px 0;margin-top:15px;width:80%;} 
+
+/* Controla espaÃ§amento */
+.level2 { margin-top: 15px; } /* Controla espaÃ§amento */
+
+/*Footer Icons*/
+.FootIcons { padding-top:0;padding-bottom: 15px; border-bottom: 1px solid #dddddd; }
+.footDirecto .numero a { margin: 0px; font-size: 75px; color: #7e9521; text-decoration: none; margin-top: -10px; }
+.iconBox { padding-right: 0px; margin-right: 10px; margin-bottom: 15px; }
+.iconBox a { margin: 0px; float: left; font-size: 17px; color: #54667a; text-decoration: none; text-align:left;}
+.iconBox a p { float: right; font-family: Lato, sans-serif; font-size: 9px; margin-top: 0px; padding-top: 0px; padding-right: 10px; padding-left: 5px; padding-bottom: 0px; color: #54667a; text-transform: uppercase; line-height: 10px; margin-bottom: 0px; }
+
+/*Footer Marcas*/
+.FootMarcas .fraseLegal { font-size: 10px; }
+
+/*Top Destinos*/
+.margemTopDestinos { margin-top: 20px; margin-bottom: 30px; }
+.topDestinos { font-size: 35px; color: #FFFFFF; line-height: 45px; text-transform: uppercase; margin-bottom: 25px; }
+.topTeaser {font-size: 30px; line-height: 30px; margin-bottom:15px; }
+.circ { width: 30px; height: 30px; border-radius: 30px; background: #ffffff; }
+.circ p {font-size: 18px;padding-top: 1px;}
+.topLstDestino .destino {line-height: 12px;}
+.topLstDestino .destino a { font-size: 11px;line-height: 12px;}
+.topLstDestino .texto {line-height: 11px;}
+.topLstDestino .texto a { font-size: 10px;line-height: 11px;}
+.topPreco a {font-size: 16px;}
+.topPreco a span {color: #fff;padding-top: 0;margin-left: 5px;font-size:14px;}
+.topDesde span {padding-right:36px;}
+.topDesdeSmall span {padding-right:32px;}
+.topDesdeWhite span {padding-top:0;}
+  
+/*OP Lista*/  
+.opTopDesde span {padding-top:5px;padding-right:37px;}
+.opTopTitle h2 {font-size: 18px;color: #54667a;font-weight: 700;margin: 0px; text-transform: uppercase;padding-top:15px;}
+.opTopTitle p {height: 20px; margin-bottom: 0; font-size: 11px; color: #54667a; font-weight: 400; line-height: 15px;}
+.imglstDestinos .opTexto { line-height: 13px; padding-top:2px;}
+.imglstDestinos .opTexto a { font-size: 13px; text-decoration: none; color: #54667a; line-height: 15px }  
+  
+/*Black Friday*/
+.topDestinosBF {   text-transform: uppercase; margin-bottom: 5px; }
+.topDestinosBF span { font-size: 45px;}
+.topDestinosBF strong { font-size: 45px;line-height: 25px;}
+.circBF { width: 30px; height: 30px; border-radius: 30px; background: #000000;}
+.circBF p { color: #ffffff; font-size: 18px;padding-top: 1px; }
+.topLstDestinoBF .destino {line-height: 12px;}
+.topLstDestinoBF .destino a { font-size: 11px; text-decoration: none; text-transform: uppercase; color: #000000; line-height: 12px; font-weight:700;/*letter-spacing: -1px;*/ }
+.topLstDestinoBF .texto {line-height: 11px;}
+.topLstDestinoBF .texto a { font-size: 10px; text-decoration: none; color: #000000; line-height: 11px }
+.topPrecoBF a { font-size: 16px; color: #ff4314; text-decoration: none; font-weight: 700; }
+.topPrecoAntesBF a { font-size: 13px; color: #000000; text-decoration: none; font-weight: 700; text-decoration: line-through;display:block; margin-top:1px;}
+/*------------*/    
+  
+/*Black Friday*/ 
+.textLista .logo {color: #000000; font-size: 12px; line-height: 13px;font-weight: 900;width: 55px; height: 55px; margin:-5px auto 0; border-radius: 50%; background: #fcf12f; padding-top: 15px;padding-left:7px;padding-right:7px;text-transform:uppercase;}
+.textLista .logo strong {font-weight: 900;color: #ff0c0c;}
+.topDesdeBF span {padding-right:35px;}
+.imglstDestinosBF .destino a { font-size: 12px; }
+.imglstDestinosBF .texto a { font-size: 11px;}
+.imglstPrecoAntesBF a { font-size: 12px; }
+.imglstPrecoBF a { font-size: 14px;}
+.imglstSetaBF {padding-top: 0;}
+.imglstSetaBF a { font-size: 11px; padding-top: 0px;}
+/*------------*/  
+
+/*Homepage - Image List*/
+.textLista p { font-size: 25px; line-height: 25px; margin: 0; font-weight: 700; color: #FFFFFF; text-transform: uppercase; margin-bottom: 15px; }
+.textLista span[class^=icon-] { color: #ffffff; font-size: 25px; width: 25px; height: 25px; border-radius: 50%; /*background: #31d100;*/ padding: 10px; }
+.imglstDestinos .destino {line-height: 12px;}
+.imglstDestinos .destino a { font-size: 12px; text-decoration: none; text-transform: uppercase; color: #54667a; line-height: 13px; }
+.imglstDestinos .texto a { font-size: 11px; text-decoration: none; color: #54667a; line-height: 12px }
+.imglstDestinos .texto {line-height: 11px;}
+.imglstPreco a { font-size: 14px; color: #158cba; text-decoration: none; font-weight: 700; }
+.imglstSeta { padding-top: 0; }
+.imglstSeta a { font-size: 11px; color: #54667a; text-decoration: none; }
+.imglstIcon span[class^=icon-]{padding-top:2px;}
+  
+/*Destaques*/
+.hpDestaque .paragraphText h1 { font-size: 30px; color: #158cba; font-weight: 300; margin: 0; }
+.hpDestaque .paragraphText { font-size: 14px; font-weight: 300; color: #8e9ba9; line-height: 21px; }
+.mrec h1 { font-size: 12px; color: #a9a9a9; font-weight: 700; margin-top: 0; }
+.lrec h1 { font-size: 16px; color: #54667a; font-weight: 400; text-transform: uppercase; }
+.lrec img { margin-top: 7px; }
+.pubProd .lrec { width: inherit;}
+
+.dskProduto .dskDestino { position: absolute; bottom: 8%; left: 4%; line-height:16px;}
+.dskProduto .dskDestino p {  font-size: 16px; font-weight: 700; color: #FFFFFF; }
+.dskProduto:hover .dskInfo {display:none;}
+.dskProduto .dskInfo { position: absolute; bottom: 1%; left: 4%; line-height:12px;}
+.dskProduto .dskInfo p { font-size: 11px; color: #FFFFFF; }
+.dskProduto:hover .dskPreco {display:none;}
+.dskProduto .dskPreco { position: absolute; bottom: 8%; right: 4%; color: #FFFFFF; line-height:16px;}
+.dskProduto .dskPreco p { font-size: 16px; font-weight: 700; }
+
+/*product Slider*/
+.bx-wrapper div.bxSliderBlock { max-width: 767px !important; }
+.bx-prev { left: 15px !important; }
+.bx-next { right: 15px !important; }
+
+/*jumbo Top*/
+.jumbTop .jmbInfo { padding: 40px 0; }
+.jumbTop .jmbInfo .destino { font-size: 60px; color: #FFFFFF; font-weight: 300; line-height: 50px;text-transform:uppercase;}
+.jumbTop .jmbInfo .subTitulo { font-size: 25px; color: #FFFFFF; font-weight: 300; line-height: 25px; }
+
+/*Jumbo Foot*/
+.jumbFoot .paragraphButton {margin-bottom:15px;}
+.jumbFoot .paragraphHeader h2 { font-size: 40px; color: #FFFFFF; font-weight: 300; line-height: 55px;text-transform:uppercase;margin-top:15px;}
+/*.jumbFoot .paragraphHeader h2 { font-size: 25px; color: #FFFFFF; font-weight: 300; line-height: 30px;margin-top:15px;}*/
+.jumbFoot .jmbTop p { font-size: 14px; color: #FFFFFF; font-weight: 300;line-height: 16px; }
+.jumbFoot .jmbTop .verOfertas { text-align: center; margin-top:15px;; line-height: 30px; }
+.jumbFoot .jmbTop .verOfertas a { font-size: 16px; color: #FFFFFF; text-decoration: none; padding: 10px 40px; border: solid 1px #FFFFFF; text-transform: uppercase; }
+  
+/*Generic Header*/
+.genericHeader .bigSpacing {margin:40px 0;}
+.genericHeader h1 {font-size: 40px; color: #FFFFFF; font-weight: 300; line-height: 45px;text-transform:uppercase;}
+.genericHeader h2 {font-size: 40px; color: #FFFFFF; font-weight: 300; line-height: 55px;text-transform:uppercase;margin-top:15px;}
+.genericHeader .paragraphText {font-size: 16px; color: #FFFFFF; font-weight: 300;line-height: 20px;}
+.genericHeader .paragraphText p {font-size: 25px; color: #FFFFFF; font-weight: 300; line-height: 25px;}
+.genericHeader .paragraphButton { margin-top:30px; line-height: 35px; margin-bottom:15px;}
+
+/*Quad Prod*/
+.dskTOP5 { margin-bottom: 30px;position: relative; background-color: #FFFFFF; }
+.dskTOP5 .lgImage .img-responsive { max-height: none; }
+.dskTOP5 .titTop5 { position: absolute; top: 15px; left: 15px; text-transform: uppercase; font-size: 50px; color: #FFFFFF; font-weight: 300; line-height: 50px; margin: 0; padding: 0; }
+.dskTOP5 .infoTOP5 { background-color: #FFFFFF; padding-top: 15px; padding-bottom: 12px; }
+.dskTOP5 .infoTOP5 .numTop5 { font-size: 30px; color: #40c5a4; font-weight: 300; line-height: 30px; }
+.dskTOP5 .infoTOP5 .destinoTop5 h1 { font-size: 16px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskTOP5 .infoTOP5 .destinoTop5 p { font-size: 11px; color: #54667a; font-weight: 400; line-height: 13px; }
+.dskTOP5 .infoTOP5 .precoTop5 { font-size: 20px; color: #158cba; font-weight: 400; }
+/*.dskTOP5 .smImage {height:auto; }*/
+  
+/*Quad Lista*/
+.dskLista { margin-bottom: 30px;position: relative; background-color: #F1F1F1; }
+.dskLista .lgImage .img-responsive { max-height: none; }
+.dskLista .titTop5 { position: absolute; top: 15px; left: 15px; text-transform: uppercase; font-size: 50px; color: #FFFFFF; font-weight: 300; line-height: 50px; margin: 0; padding: 0; }
+.dskLista .infoTOP5 { background-color: #F1F1F1; padding-top: 15px; padding-bottom: 12px; }
+.dskLista .infoTOP5 .numTop5 { font-size: 30px; color: #40c5a4; font-weight: 300; line-height: 30px; }
+.dskLista .infoTOP5 .destinoTop5 h1 { font-size: 16px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5 .destinoTop5 p { font-size: 11px; color: #54667a; font-weight: 400; line-height: 13px; }
+.dskLista .infoTOP5 .precoTop5 { font-size: 20px; color: #158cba; font-weight: 400; }
+  
+.dskLista .infoTOP5BF .destinoTop5 h1 { font-size: 16px;  font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5BF .destinoTop5 p { font-size: 11px;font-weight: 400; line-height: 13px; }
+.dskLista .infoTOP5BF .precoTop5 { font-size: 20px;  font-weight: 400; }  
+/*.dskLista .smImage {height:auto; }*/  
+
+/*Topo Pesquisa*/
+.titPesquisa { color: #54667a; font-size: 20px; line-height:22px;text-align: center; font-weight: 300; }
+.titPesquisa .paragraphText span[class^='icon'] { color: #158cba; margin-right: 15px; font-size: 50px;}
+
+/* Full Text */
+.fullText {font-size: 16px; color: #54667a; font-weight: 300; line-height: 20px; }
+.fullTextSmall {font-size: 14px; color: #54667a; font-weight: 300; line-height: 19px; }
+
+/* Brochuras */
+.brcTop h1 {font-size:35px; line-height:40px;}
+.brcTitle h2 {font-size:20px; line-height:35px;}
+.brcTop p {font-size:13px; color:#FFFFFF;line-height:18px;margin-bottom:15px;}
+.brcLevel1 {margin-bottom:10px;}
+.brcLevel2 {margin-bottom:10px;}
+
+/* Promoções */
+.prmTitle h1{ font-size: 40px;line-height:40px;}
+  .myTitle h1{ font-size: 40px;line-height:40px;}
+.promoBlock .prmContador {margin-top:20px;margin-bottom: 15px;}
+.promoBlock {height: 350px;}
+.promoBlock .prmInfo p, .promoBlockSm .prmInfo p {width:60%}
+.promoBlock .prmContador .validade {font-size: 13px; padding: 0; height: 25px; width: 100%; text-align: center; margin-top: -25px;padding-top:3px;}	
+.promoBlock .prmContador p {font-size: 20px;line-height: 22px;}
+.promoBlockImage { height: 250px; margin-top:0;}
+.promoBlockSm {height: 250px;}
+.promoBlockImageSm { height: 200px; margin-top:0;}
+.promoBlock .prmContador p {text-align:center;}
+.promoBlock .prmInfo p, .promoBlockSm .prmInfo p {width:100%}
+.promoBlock .prmDestino h2 {font-size:30px;}
+.promoBlock .prmDestino p {margin-top:0;}
+.promoBlock .prmInfo p,
+.promoBlockSm .prmInfo p { font-size: 12px; line-height: 14px; margin-top: 15px; }
+.promoBlock .prmPreco span,
+.promoBlockSm .prmPreco span { font-size: 12px;}
+.promoBlock .prmPreco p { font-size: 40px;  line-height: 40px;}
+.promoBlockSm .prmPreco p {font-size: 30px; line-height: 30px; float: right; }
+.promoBlock .prmPreco .ppessoa,
+.promoBlockSm .prmPreco .ppessoa { font-size: 10px;}
+  
+/*Destaque 1 Produto - 320*/
+.promoBlock1P { height: 250px;margin-top:0;}
+.promoBlock1P .prmInfo p {width:60%}
+.promoBlockImage1P { height: 180px; margin-top:0;}
+.promoBlockImage1P .circle-bar {top:0px; left:0;right:auto;bottom:auto;width:100%;height:auto;border-radius:0;padding:15px;} 
+.promoBlockImage1P .circle-bar h2 {font-size: 18px; line-height: 18px;margin:0}
+.promoBlockImage1P .circle-bar h2 b {font-weight: 700;font-size:18px;}  
+.promoBlock1P hr {margin-top:10px;margin-bottom:10px;border: 0;height: 1px; background-color: #D4D8DD;}
+.promoBlock1P .prmDestino h2 {font-size: 25px; line-height: 25px; text-align:left; }
+.promoBlock1P .prmDestino p { font-size: 14px; line-height: 14px;margin-top: 2px; text-align:left; }
+.promoBlock1P .prmInfo {width: 100%;  float: left;}
+.promoBlock1P .prmInfo p { font-size: 13px;font-weight: 400;color: #54667a;line-height: 15px;margin-top: 0;text-align: left;width:95%}
+.promoBlock1P .prmExtra {width: 100%;float: left;}
+.promoBlock1P .prmExtra p {font-size: 15px;font-weight: 700;color: #586A7D;line-height: 18px; margin-top: 0;text-align:left;}  
+.promoBlock1P .prmPreco span { font-size: 12px; line-height: 12px; }
+.promoBlock1P .prmPreco p { font-size: 30px; font-weight: 700; color: #158cba; line-height: 25px; float: right; }  
+.promoBlock1P .prmVerOfertas { position: absolute; bottom: 15px; left: 15px }
+.promoBlock1P .prmVerOfertas .btn1P {padding: 5px;width: 150px;font-size:16px; font-weight: 400; line-height: 16px;}
+  
+.pubProd .circle-bar {top:auto; left:0;right:auto;bottom:0;width:100%;height:auto;border-radius:0;padding:16px;} 
+.pubProd .circle-bar h2, .pubProd .circle-bar h1 {font-size: 13px; line-height: 18px;margin:0;text-align:left}
+.pubProd .circle-bar h2 b {font-weight: 700;font-size:13px;} 	
+.pubProd .circle-bar h1 b {font-weight: 700;font-size:13px;}
+.pubProd .circle-bar h1 span {font-size:13px;margin-left:0;}
+.pubProd .circle-bar h2 span {font-size:13px;margin-left:0;}
+
+ /*BF*/
+.promoBlockBF .prmContador {margin-top:20px;margin-bottom: 15px;}
+.promoBlockBF {height: 350px;}
+.promoBlockBF .prmInfo p, .promoBlockSm .prmInfo p {width:60%}
+.promoBlockBF .prmContador .validade {font-size: 13px; padding: 0; height: 25px; width: 100%; text-align: center; margin-top: -25px;padding-top:3px;}	
+.promoBlockBF .prmContador p {font-size: 20px;line-height: 22px;}
+.promoBlockImage { height: 250px; margin-top:0;}
+.promoBlockSmBF {height: 250px;}
+.promoBlockImageSm { height: 200px; margin-top:0;}
+.promoBlockBF .prmContador p {text-align:center;}
+.promoBlockBF .prmInfo p, .promoBlockSm .prmInfo p {width:100%}
+.promoBlockBF .prmDestino h2 {font-size:30px;}
+.promoBlockBF .prmDestino p {margin-top:0;}
+.promoBlockBF .prmInfo p,
+.promoBlockSmBF .prmInfo p { font-size: 12px; line-height: 14px; margin-top: 15px; }
+.promoBlockBF .prmPreco span,
+.promoBlockSmBF .prmPreco span { font-size: 12px;}
+.promoBlockBF .prmPreco p { font-size: 40px;  line-height: 40px;}
+.promoBlockSmBF .prmPreco p {font-size: 30px; line-height: 30px; float: right; }
+.promoBlockBF .prmPreco .ppessoa,
+.promoBlockSmBF .prmPreco .ppessoa { font-size: 10px;}
+/*--*/  
+
+.lstPrmSeta {padding-top:2px;}
+
+#grid > #posts .post { width: 100%; }
+/*#grid > #posts .post:last-of-type {margin-bottom:0;}*/
+.post { padding: 0; }
+
+.topMask230 {height:89%;}
+.margemT180B30 { margin-top: 70px; margin-bottom: 15px;}
+.lstBlockPromo {margin-bottom: 30px;}
+.lstPromocoes { font-size: 30px; line-height: 30px; }
+.lstPromocoes .topTeaser  {font-size: 25px; line-height: 25px; margin-top:5px; margin-bottom:0;}
+.lstPromocoesText {font-size: 14px; font-weight: 400;color: #FFFFFF; line-height: 16px;  margin-top: 20px;width:100%;}
+
+.lstLista .destino a { font-size: 14px; line-height: 15px; }
+.lstLista .texto a { font-size: 11px; line-height: 12px; }
+.lstLista .topPreco a { font-size: 18px; line-height:18px; }
+
+/*Tabs*/
+.tabInfoDestino {margin-top:10px; margin-bottom:15px;}
+.tabInfoDestino h1 {font-size: 16px; line-height: 18px; color: #54667a; font-weight: 700; }
+.tabInfoDestino p { font-size: 14px; line-height: 17px; color: #54667a; font-weight: 400; margin-top:5px}
+
+.tabCondicoes .icon-mais { color: #1cbbb4; font-size: 35px; line-height: 35px; }
+.tabCondicoes .icon-menos { color: #ed1c24; font-size: 35px; line-height: 35px; }
+.tabCondicoes .icon-info { color: #54667a; font-size: 35px; line-height: 35px; }
+.tabCondicoes h2 { font-size: 16px; line-height: 18px; color: #54667a; font-weight: 400; text-transform: uppercase; margin-bottom: 15px; }
+.tabCondicoes p { font-size: 14px; line-height: 17px; color: #54667a; font-weight: 300; }
+.condInfo { font-size: 14px; }
+  
+/*Passatempos*/  
+.passatemposList .paragraphHeader h2, .websitesList .paragraphHeader h2{margin-bottom:45px;}  
+  
+/*Itinerario*/
+.resumoTopoFim { margin: auto; color: #000000; font-weight: 300; font-size: 16px; line-height: 18px; width: 80px; height: 80px; border-radius: 80px; background: #f2f2f2; padding-top: 20px; text-transform: uppercase; }
+.resumoDia .dia {color: #158CBA; font-weight: 300; font-size: 18px; line-height: 18px;}
+.resumoDia .destino {color: #54667a; font-weight: 400; font-size: 14px; line-height: 16px;text-transform:uppercase;}
+.resumoDia .itinerario {color: #000000; font-weight: 300; font-size: 14px; line-height: 16px;}
+
+/*Carrousel*/
+.carousel-control.left { margin-left: 70%; margin-top: 3%; }
+.carousel-control.right { margin-right: 35px; margin-top: 3%; margin-left: 0px; }
+.carousel-control .icon-seta-esquerda-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-control .icon-seta-direita-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-inner .active.left { left: -100%; }
+.carousel-inner .next { left: 100%; }
+.carousel-inner .prev { left: -100%; }
+.bgDestaque .active > div { display: none; }
+.bgDestaque .active > div:first-child { display: block; }
+.tabSlideInfoArea .icon-pin { font-size: 50px; color: #158cba; line-height: 40px; float: left; margin-right: 20px; margin-bottom: 15px; }
+.tabSlideInfoArea p { font-size: 18px; color: #374553; line-height: 20px; float: left; }
+.tabSlideInfoArea span { font-size: 14px; font-weight: 300; color: #374553; line-height: 16px; float: left; margin: 0; }
+.tabSlideInfo { font-size: 14px; color: #374553; font-weight: 400; line-height: 16px; }
+
+/*Descritivo Hotel*/
+.goBack a.icon-esquerda { color: #158cba; font-size: 40px; text-decoration:none;}
+.goBack p {color: #54667a;font-size: 10px; line-height: 10px; text-transform:uppercase; text-decoration:none;margin-top:5px;font-weight: 400;}
+
+.alojDescritivo {margin-top:15px;}
+.alojDescritivo h1 { position: relative; color: #54667a; font-size: 20px; font-weight: 300; line-height: 20px; text-transform: uppercase; width: 90%; margin-top: 0px;}
+.alojDescritivo p {color: #54667a;font-size: 14px; font-weight: 400;line-height: 16px; margin-top:15px; }
+
+.alojDescritivo h1 .icon-star { margin-top:0; position: absolute; top: 5%; right: -5%; color: #158cba; font-size: 50px; }
+.alojDescritivo h1 .icon-star .star { font-family: Lato, sans-serif; font-size: 20px; line-height: 20px; font-weight: 300; color: #158cba; position: absolute; top: 13%; left: 30%; }
+
+/*Hoteis Destaque*/
+.descricaoHotel { font-size: 16px; font-weight: 400; color: #54667a; line-height: 19px; margin-top: 0px; margin-top: 20px; }
+
+/*Exclusivo Top Header*/
+.tabTopDsk .icon-pin {font-size:70px;line-height: 90px;color:#FFFFFF;}
+.tabTopDsk .jmbInfo { padding: 40px 0; }
+.tabTopDsk .jmbInfo .tabdestino { font-size: 50px; color: #FFFFFF; font-weight: 400; line-height: 40px;text-transform:uppercase;}
+.tabTopDsk .jmbInfo .tabsubTitulo { font-size: 14px; color: #54667a; font-weight: 300; margin-top:20px; width:290px;}
+
+.tabTopDsk .jmbInfo .distico {width: 75px; height: 75px; border-radius: 75px; background:#FFFFFF; position:absolute; top:0; right:25px;}
+.tabTopDsk .jmbInfo .distico .inText {font-size: 14px; font-weight: 400; line-height: 16px;color: #54667a;padding-top:23px}
+/*------------------*/
+.tabTopInfoType { font-size: 12px; color: #158cba; font-weight: 300; padding:4px 10px; background:#FFFFFF;width:50%;text-transform:uppercase;margin-bottom:15px;}
+.tabTopInfoArea .icon-sucesso {font-size: 40px; color: #FFFFFF; line-height:40px;float:left;margin-right:20px}
+.tabTopInfoArea p {font-size: 18px; color: #FFFFFF; line-height:20px;float:left;}
+
+.tabTopInfo { font-size: 14px; color: #FFFFFF; font-weight: 400; line-height:16px;}
+
+.tabTopInfoArea {margin-bottom:30px;}
+
+/*Tabela*/
+.quadHotel .scrLocal { position: absolute; Bottom: 3%; left: 3%; }
+.quadHotel .scrLocal p { margin: 0; font-size: 13px; line-height: 13px; font-weight: 300; text-transform: uppercase; color: #FFFFFF; }
+
+.maisVendidoTitle {font-family: Lato, sans-serif; font-size: 35px; line-height: 45px; font-weight: 300; color: #158cba;}
+.melhorPreco { font-family: Lato, sans-serif; font-size: 30px; line-height: 30px; font-weight: 400; color: #54667a;}
+.maisInclui {float:left;margin-right:10px;}
+.maisInclui p { float: left; color: #54667a; font-size: 18px; margin-right: 3px; }
+.maisInclui .icon-rent-a-car { float: left; color: #158cba; font-size: 20px; width: 20px; height: 20px; margin-top: 2px; }
+.margin15 {margin:5px 0;}
+
+.no-more-tables {padding-bottom: 40px;}
+.adjustXs {margin-top:-40px;}
+.rwd-table { margin: 15px 0; min-width: 100%; }
+.rwd-table tr { border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+.rwd-table th { display: none; }
+.rwd-table td { display: block; padding: 2px !important;}
+.rwd-table td:before { content: attr(data-title) ": "; font-weight: 400; width: 160px; display: inline-block; padding: 2px !important; }
+.htlNumber .icon-nada { position: relative; color: #158cba; font-size: 38px; width: 38px; height: 38px; }
+.htlNumber .icon-nada .star { font-family: Lato, sans-serif; font-size: 25px; line-height: 25px; font-weight: 300; color: #158cba; position: absolute; top: 15%; left: 30%; }
+.lineBottom { border-bottom: 1px solid #ddd; }
+
+.tblPreco {padding-bottom:5px;margin-bottom:5px}
+.tblPreco .total {font-family: Lato, sans-serif; font-size: 12px; line-height: 16px; font-weight: 300; color: #54667a;text-align:right;}
+.tblPreco .preco {font-family: Lato, sans-serif; font-size: 30px; line-height: 35px; font-weight: 400; color: #158cba;text-align:right;}
+
+.tblInfo {padding-bottom:5px;margin-bottom:5px; }
+.tblInfo .icon-info { margin:auto;color: #158cba; font-size: 28px; width: 28px; height: 28px; }
+.tblInfo .nota {text-align:center;font-family: Lato, sans-serif; font-size: 12px; line-height: 16px; font-weight: 300; color: #54667a;margin-top:5px;}
+
+/*Lojas*/
+.xsMargemT15 { margin-top: 15px; }
+.panel-group { border: none; margin-bottom: 0; }
+.zonas ul li {text-align:center;}  
+.zonas ul li .panel-title > a { font-family: 'Lato', sans-serif;font-size: 16px; padding: 10px 15px; font-weight: 300; text-decoration: none; outline: 0; color: #ffffff; background: #158cba; display: block; }
+.zonas ul li .panel-title > a.collapsed { font-family: 'Lato', sans-serif;font-size: 16px; color: #158cba; background: #ffffff; text-transform: uppercase; }
+.zonas ul li .lojas { font-size: 14px; font-weight: 300; color: #54667a; }
+.zonas ul li .lojas span { font-size: 14px; font-weight: 300; color: #158cba; text-transform: uppercase; }
+.zonas ul li .lojas a.mail { font-family: 'Lato', sans-serif; font-size: 14px; font-weight: 300; color: #158cba; text-decoration: none; text-transform: lowercase; }
+.zonas ul li a.accordion-toggle { outline: 0; font-family: 'Lato', sans-serif; font-size: 14px; line-height: 16px; color: #54667a; text-decoration: none; }
+.zonas ul li a.accordion-toggle:hover { color: #158cba; }
+
+.mapa { width: 100%; height: 160px; }
+
+/*Contactos TOP*/
+.xsMargemT15 { margin-top: 15px; }
+.cnt-info span[class^="icon-"] { margin-bottom: 15px; font-size: 25px; }
+.cnt-info h2 {font-size:18px;margin-bottom:10px;}
+.cnt-info p {font-size:14px;}
+.cnt-info p a {font-size:14px;}
+
+.cnt-info h2 {font-size:16px;font-weight: 300;color:#54667a;margin-bottom:5px;margin-top: 0px;}
+.cnt-info p a.mail {font-size:14px;font-weight: 300;color:#158cba;text-decoration:none;outline: 0;}
+.cnt-info small {font-size:12px;font-weight: 300;color:#54667a;}
+
+.gen-info .contacto {font-size:11px;line-height:15px;letter-spacing:-1px;}
+
+.panel-title > a, .panel-title > a:hover, .panel-title > a:focus,
+.panel-title > small,
+.panel-title > .small,
+.panel-title > small > a, .panel-title > small > a:hover, .panel-title > small > a:focus,
+.panel-title > .small > a,.panel-title > .small > a:hover, .panel-title > .small > a:focus {text-decoration:none; outline:0;color:#158cba;}
+.panel-title > a.js-tabcollapse-panel-heading.collapsed {color:#54667a;}
+.panel-heading:hover .panel-title > a {background:#f1f1f1;color:#54667a;}
+
+.gen-info span[class^="icon-"] { color: #158cba; font-size: 18px;display: inline-block; line-height:25px;}
+.inCircle {width:35px; height:35px; padding:5px; border:#158cba 1px solid; border-radius: 50%;}
+.margemT30B60 {margin-top:15px;margin-bottom:0px;}
+
+.cntTop .paragraphText h1 {font-size:16px; color:#158cba;line-height:20px;font-weight:300;margin-top:15px;}
+.cntTop .paragraphText * {font-size:12px; color:#54667a;line-height:15px;font-weight:300;margin-bottom:15px;}
+.cntTop figure {display:none;}
+
+/*Recrutamento*/
+.text-center-xs {text-align:center;}
+.pageTop h1 {font-size:35px; color:#158cba;font-weight:300;text-transform:uppercase;margin:0;}
+.pageTop p {font-size:20px; line-height:28px; color:#54667a;font-weight:300;}
+
+.cdtOportunidades { margin-bottom: 60px;  border-bottom: 1px dotted #cccccc; padding-bottom: 60px; }  
+.cdtOportunidades:last-of-type {margin-bottom:15px; padding-bottom:15px;border-bottom:none;}  
+.cdtOportunidades .departamento {font-size:12px;line-height: 14px;}
+.cdtOportunidades h2 {font-size:20px;line-height:22px;}
+.cdtOportunidades .local {font-size:12px;line-height: 14px;}
+.cdtOportunidades .requisitos {font-size:14px;line-height: 16px;}
+
+.cdtFicha input[type="text"] {padding: 10px; margin-top:15px;}
+.cdtFicha select {padding: 10px; margin-top:15px;}
+.cdtFicha .maximoTamanho {font-size:14px;padding-top:16px;}
+
+/* Formularios */
+.DMForms input[type="text"] {padding: 10px;margin-top: 15px;}
+.DMForms select {padding: 10px;margin-top: 15px;}
+.DMForms .maximoTamanho {font-size: 14px;padding-top: 16px;}
+
+/* Servicos */
+.brcCheques h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcCheques h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 15px; }
+.brcCheques .paragraphText { font-size: 14px; line-height: 17px; margin-bottom: 30px; }
+
+.brcCredito h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcCredito h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 15px; }
+.brcCredito figure {margin-bottom:15px;}
+.brcCredito .paragraphText { font-size: 14px; line-height: 17px; }
+.brcCredito .nota { font-size: 12px; line-height: 15px; margin-top: 15px; }
+
+.brcRentCar h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcRentCar h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 15px; }
+.brcRentCar .paragraphText { font-size: 14px; line-height: 17px; }
+
+.brcSeguros h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcSeguros h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 15px; }
+.brcSeguros figure {margin-bottom:15px;}
+.brcSeguros .paragraphText { font-size: 14px; line-height: 17px; margin-left: 0;}
+
+.brcLuasmel h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcLuasmel h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 15px; }
+.brcLuasmel .paragraphText { font-size: 14px; line-height: 17px; }
+.brcLuasmel p a {margin-bottom:0;}
+.brcLuasmel.nota .paragraphText { font-size: 12px; line-height: 15px; margin-top: -15px;margin-bottom:15px; }
+.brcLuasmel.nota figure{ display:none; }
+
+.brcComboios h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcComboios h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 15px; }
+.brcComboios figure {margin-bottom:15px;}
+.brcComboios .paragraphText { font-size: 14px; line-height: 17px; margin-left: 0;}
+
+.brcOutros h2 { font-size: 35px; line-height: 38px; margin-bottom: 30px; }
+.brcOutros h3 { font-size: 16px; line-height: 21px; color: #FFFFFF; margin-bottom: 0px; }
+.brcOutros .paragraphText { font-size: 14px; line-height: 17px;margin-bottom:0px; }
+.brcOutros a {font-size: 18px;line-height:18px;margin-bottom:30px !important;}
+.brcOutros > ul > li:last-child > a {margin-bottom:0 !important;} 
+.brcComboios .paragraphText,.brcLuasmel .paragraphText{margin-left:0;}
+
+/************* ATC ***************/
+.jumbFoot .jmbTop h2 { font-size: 25px; color: #FFFFFF; font-weight: 300; line-height: 30px;text-transform:uppercase;}
+.text-center-xs { text-align: center; }
+.text-left-xs { text-align: left!important;}
+.pageTop h1 { font-size: 35px; color: #158cba; font-weight: 300; text-transform: uppercase; margin: 0; }
+.pageTop p { font-size: 20px; line-height: 28px; color: #54667a; font-weight: 300; }
+.faqs .panel-body { padding: 0; }
+.faqs .panel-heading { border-radius: 0; background: #158cba; }
+.faqs .panel-heading a,.faqs .panel-heading a:hover { color: #FFF!important;background-color:transparent!important; }
+.faqs .accordion-toggle { font-size: 14px; }
+.faqs .accordion-content:last-child { border-bottom: 0; }
+.faqs .js-tabcollapse-panel-heading { text-decoration: none; color: #54667a; }
+.jmbPages h1 { font-size: 28px; line-height: 31px; margin-bottom: 15px; }
+.jmbPages h2 { font-size: 20px; line-height: 23px; margin-bottom: 15px; }
+.jmbPages .paragraphText { font-size: 14px; line-height: 21px; margin-bottom: 15px; }
+.jmbPages .paragraphButton { margin-top: 15px; ; line-height: 35px; }
+.jmbPages .paragraphButton a { font-size: 14px; padding: 10px 40px; }
+
+/*Table*/
+.titulosAtc li {margin-bottom:0;}
+.titulosAtc, .titulosAtc a  { font-size: 35px; font-weight: 300; line-height: 40px; color: #ffffff; }
+.bgATC #bx-pager {position:relative; padding-left:0;}
+.bgATC .bx-wrapper {margin-top:30px;}
+.bgATC .bx-wrapper .bx-controls-direction a {top: -10%;}
+.bgATC .bx-wrapper .bx-prev {left: 65% !important;}
+.bgATC .no-more-tables {padding-bottom:0;}
+.bgATC .no-more-tables h2 { color: #ffffff; margin-top: 0; margin-bottom: 15px; font-size: 18px; line-height: 22px; font-weight: 300; }
+.bgATC .no-more-tables, .bgATC .no-more-tables *  { color: #ffffff; margin-top: 0;  font-size: 13px; /*margin-bottom: 15px;line-height: 17px;*/ font-weight: 300; }
+.bgATC .no-more-tables b { font-weight: 700; }
+.bgATC .atc-table { margin: 15px 0; min-width: 100%; }
+.bgATC .atc-table tr { border-top: 1px solid #ddd; border-bottom: 1px solid #ffffff; }
+.bgATC .atc-table tr:first-child { border-top: 2px solid #ffffff; }
+.bgATC .atc-table th { display: none; }
+.bgATC .atc-table td { display: block; padding: 2px !important; font-weight: 400; }
+.bgATC .atc-table td:before { content: attr(data-title) ": "; font-weight: 700; width: 60%; display: inline-block; padding: 2px !important;  }
+.bgATC .atc-table .jimbo { visibility: collapse; margin-left: -9999999px; }
+  
+.atc2-table { margin: 15px 0; min-width: 100%; }
+.atc2-table tr { border-top: 1px solid #ddd; border-bottom: 1px solid #000000; }
+.atc2-table tr:first-child { border-top: 2px solid #000000; }
+.atc2-table th { display: none; }
+.atc2-table td { display: block; padding: 2px !important; font-weight: 400; }
+.atc2-table td:before { content: attr(data-title) ": "; font-weight: 700; width: 60%; display: inline-block; padding: 2px !important;  }
+.atc2-table .jimbo { visibility: collapse; margin-left: -9999999px; }  
+
+/************* Passatempos ***************/
+.titSites /*.paragraphHeader*/ h1 {font-size: 40px;margin-bottom: 30px;font-weight: 300;margin-top: 0;}
+.titSites /*.paragraphHeader*/ h2 {margin-bottom: 30px;}
+.sitesCircle .h2 { font-size: 18px; line-height: 21px; height: 42px; margin-bottom: 15px; }
+.sitesCircle img { width: 180px; height: 180px; }
+
+.passatempos .paragraphText {color: #54667a; font-size: 14px; font-weight: 300; line-height: 21px}
+.passatempos .paragraphText button,.passatempos .paragraphText a {border-radius:0;border:0;}
+.passatempos .passCirc { width: 250px; height: 250px; border-radius: 50%; display:inline-block; text-align: center;}
+.apoio h2 {color: #54667a; font-size: 12px;margin-bottom:15px;}
+.apoio img {display:inline-block; margin-bottom:30px;}
+
+/************* Home Search ***************/
+#searchArea > h2 {font-size:25px;}
+#searchActionMenu {display: flex;width: 100%;}
+#searchActionMenu + div{height: auto!important;}
+#searchActionMenu > li { flex: 1 1 100%;}
+#searchActionMenu a {margin-bottom: 0;font-size:0;}
+#searchActionMenu a span {display: none;font-size:0;}
+#searchActionMenu a i {font-size:17px;}  
+.homeSearchForms .row {margin-top: 0}
+.homeSearchForms .row:first-child {margin-top: 15px;}
+.homeSearchForms .row:first-of-type {margin-top: 15px;}
+.formButtons {margin-top:10px;}
+  
+/************* Home Footer ***************/  
+.FootSocial a {margin-right:0;}
+
+/************* Formularios e Navegacao ***************/  
+.subMenuTop ul{padding:0}
+.subMenuTop ul li {padding-bottom: 20px;width:100%;}
+.subMenuTop ul li:hover, .subMenuTop ul li.activeItem {background-color: #158cba;}
+.subMenuTop ul li:hover a, .subMenuTop ul li.activeItem a {color:white}
+#recruitmentForm .panel-title > a {font-size:16px;width: 100%!important;text-align: left!important;display: inline-block;}
+#recruitmentForm h2 a:before {content:none}
+#recruitmentForm .panel-default > .panel-heading {padding-left:0;padding-right:0;}
+  
+.DMForms .btn-group.bootstrap-select span[class^=icon-] {font-size:14px;}
+#recruitmentForm .textHeading, .DMForms .bootstrap-select.btn-group .btn .filter-option, .DMForms input[type=text], .DMForms input[type=number], .DMForms input[type=email], .DMForms input[type=password], .DMForms .fakefile > input, .DMForms textarea, .DMForms .bootstrap-select > .btn {font-size:14px!important;}
+.DMForms .panel-title span[class^=icon-] {float:right;}
+.File .fakefile > button {font-size:10px}
+.File label {font-size:13px;}  
+
+.xs-text-center {text-align: center;}
+  
+.xs-noPadding {padding: 0 !important}
+  
+.emDestaque h2 {font-size: 25px;line-height: 25px;width:52%}
+.emDestaque h3 {display:none}  
+.emDestaque p {display:none} 
+.emDestaque .desde {font-size: 16px;line-height: 16px;}
+.emDestaque .preco {font-size: 30px;line-height: 30px;width:35%}
+
+.pubProd div:not(.bxslider) a {margin-top:15px;}
+.pubProd .verOferta {padding:7px 15px;font-size: 12px;line-height: 14px;}  
+  
+.pubProd .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {bottom:15px;right: 10px;} 
+.pubProd div:not(.bxslider) a {float:none;overflow: hidden;}
+.pubProd .mrec {width:100%;margin-top:15px!important;}
+.pubProd .mrec:first-child {margin-bottom:0;}
+.pubProd .lrec {margin-top:15px!important;}
+.pubProd .destaqueBar {height:110px}
+  
+/*Registo Newsletter*/  
+.regNwsTop .paragraphText {font-size:25px;line-height:30px;}
+.regNwsInfo	.regNwsInfoNum {font-size:35px;}
+.regNwsInfo	.paragraphText {font-size:16px;}  
+  
+.homeSearchForms input[type="text"], .homeSearchForms .row:first-child select {padding-left:10px!important;}
+  
+.FootIcons ul {padding-top:25px;}
+  
+form[name='schCruisesForm'] .select select{width:100%!important;}
+  
+.homeSearchForms input[type="text"], .homeSearchForms .row:first-child select, .homeSearchForms .row:first-of-type select {padding-left:10px;}
+  
+/*-- Patrocinios --*/
+.patrocinios h1, .termos h1 {font-size:22px;line-height: 26px;margin-bottom:15px;}
+.patrocinios .paragraphText, .termos .paragraphText {font-size:12px;line-height:16px;}
+.patrocinios h2, .termos h2 {font-size:18px;} 
+  
+  
+.genericHeader img {position:relative;  min-width: auto; min-height: auto;margin-right:0; width:190px;}
+.genericHeader img.imgBF {position:relative;  min-width: auto; min-height: auto;margin-left:0; width:120px;}
+  
+  
+/************* Salsa ***************/
+.salsa h1 {font-size:12px; line-height: 16px; margin-bottom: 15px;}
+.salsa h2 {font-size:16px; line-height: 20px;}
+.salsa .paragraphText p {font-size:12px;line-height:16px;margin-bottom:15px;} 
+  
+.bannerCompras {display:none;}
+.bannerComprasMobile {display:inline-block;} 
+
+/******* Continente ***********/
+.titMAContinente h1 {font-size:35px;line-height: 35px; }
+.titMAContinente h1 span {font-size:35px;line-height: 35px;}
+.titMAContinente h2 {font-size:20px;line-height: 20px;}
+.titMAContinente h2 span {font-size:20px;line-height: 20px; }  
+
+.titMAbreu h1 {font-size:30px;color:#376275;font-weight: 700; line-height: 30px; text-transform:uppercase;margin-bottom: 0; margin-top: 0;text-transform:uppercase;}
+.titMAbreu h1 span {font-size:25px;color:#376275;font-weight: 300; line-height: 25px; text-transform:uppercase;text-transform:uppercase;}
+  .titMAbreu h2 {font-size:16px;color:#376275;font-weight: 300; line-height: 20px; margin-bottom: 0; margin-top: 0;margin-top:15px;}
+.titMAbreu p {font-size:16px;line-height:20px;}  
+  
+    /*Disney - Contador*/
+.counterBlock .cntContador {padding: 15px 0 ;position: relative; }
+.counterBlock .cntContador .titulo {color:#fff;font-size:20px;padding-top:15px;}	
+.counterBlock .cntContador p { font-size: 18px; font-weight: 300; color: #FFFFFF; line-height: 21px; margin: 0; padding: 5px 0;}
+.counterBlock .cntContador p b { font-size: 20px; font-weight: 700; color: #FFFFFF; line-height: 23px; } 
+  
+  /*Pop Up*/
+   #pop .modal-dialog {position: relative; width: 340px; margin: auto;margin-top:15px;}
+   #pop .modal-content {color: #fff;padding: 0;background-image: url('/files/Billeder/Abreu2016/PopUp/popXS.jpg');background-size: cover;height:670px;}
+   #pop .modal-body {padding: 10px;}
+   #pop button.close {width: 25px;height: 25px;font-size:20px;}
+   #pop input[type="email"] {font-size:18px !important;}
+   #pop input[type="submit"] {font-size:18px;}
+  
+  /*************** MA2019 **************/
+.MaHeaderTeaser {font-size: 17px; line-height: 21px;}
+.MaParceiros h2 {font-size: 17px; line-height: 21px;margin-bottom:15px;} 
+.MaParceiros img.visible-xs {padding:0 5px;display: inline-block !important;}
+  
+.MaSelecao .select { padding:0; margin-top:10px; width: 75px; height: 75px; border-radius: 50%; display:inline-block !important; background:#FFFFFF;transition: background-color 0.5s ease; background-color: #FFFFFF;}
+.MaSelecao .select a p {font-family: Lato, sans-serif;color: #212121;font-size: 11px;line-height: 13px;font-weight: 400;text-decoration: none;margin: 0;padding-top: 5px;}
+.MaSelecao .select:hover { margin-top:10px; width: 75px; height: 75px; border-radius: 50%; display:inline-block !important; background:#FF1762; }
+.MaSelecao .select:hover a p{color:#ffffff;text-decoration: none;}
+.MaSelecao .select a[class^=icon-] {color: #212121;font-size: 25px;padding: 0;padding-top: 0px;padding-top: 10px;display: inline-block;width: 100%;text-decoration: none;}
+.MaSelecao .select:hover a[class^=icon-] {color: #ffffff;}
+  
+.MaCircle {margin-bottom:30px;}
+.MaCircle h2, .MaCircle h2 a {text-decoration:none !important;display:inline-block;width:100%; color: #1A1A1A; font-size: 28px; line-height: 31px; font-weight: 700; /*height: 38px; text-transform: uppercase;*/ margin-top: 0; margin-bottom: 0; }
+.MaCircle span {display:inline-block;width:100%;color: #1A1A1A; font-size: 17px; line-height: 16px; font-weight: 400;margin-bottom: 5px;}
+.MaCircle p {display:inline-block;width:100%;color: #1A1A1A; font-size: 17px; line-height: 21px; font-weight: 400;margin-top: 15px;}
+.MaCircle img { margin-top:10px; width: 230px; height: 230px; border-radius: 50%; display:inline-block !important;}
+.MaCircle img:hover { -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.30); -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.30); box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.30); }
+.MaCircle a {/*padding-bottom: 20px;*/display:inline-block;text-decoration:none !important;}  
+
+
+
+}
+
+/*-----XSM-----*/
+@media (min-width: 490px) and (max-width: 767px) {
+  
+  
+  .bannerCompras {display:none;}
+  .bannerComprasMobile {display:inline-block;} 
+  
+  .express {width:60%;}
+  
+  /*Disney - Contador*/
+.counterBlock .cntContador {padding: 15px 0 ;position: relative; }
+.counterBlock .cntContador .titulo {color:#fff;font-size:30px;}	
+.counterBlock .cntContador p { font-size: 30px; font-weight: 300; color: #FFFFFF; line-height: 34px; margin: 0; padding: 15px 0;}
+.counterBlock .cntContador p b { font-size: 32px; font-weight: 700; color: #FFFFFF; line-height: 35px; }    
+  
+/*Controladores*/
+.margemTB30 {margin-top:15px;margin-bottom:15px;} 
+.listasTB30s { margin-top: 15px; margin-bottom: -15px; }
+.listasTB30s:last-of-type {margin-bottom:15px}
+
+/*Footer Newsletter*/
+.FootNewsleter { padding-top: 15px; padding-bottom: 15px; }
+.FootNewsleter p { /*float: left; margin-left: 10px;*/ margin-top: 4px; font-family: Lato, Arial, sans-serif; font-size: 15px; line-height: 23px; width: 100%; }
+
+/*top Destinos*/
+.margemTopDestinos { margin-top: 25px; margin-bottom: 30px; }
+.topDestinos { font-size: 40px; color: #FFFFFF; line-height: 50px; text-transform: uppercase; margin-bottom: 35px; }
+.circ { width: 30px; height: 30px; border-radius: 30px; background: #ffffff; }
+.circ p {font-size: 18px;padding-top: 1px;}
+.topLstDestino .destino {line-height: 14px;}
+.topLstDestino .destino a { font-size: 13px;line-height: 14px;}
+.topLstDestino .texto {line-height: 12px;}
+.topLstDestino .texto a { font-size: 12px;line-height: 13px;}
+.topPreco a {font-size: 18px;}
+  
+/*OP Lista*/  
+.opTopDesde span {padding-top:5px;padding-right:35px;}
+.opTopTitle h2 {font-size: 18px;color: #54667a;font-weight: 700;margin: 0px; text-transform: uppercase;padding-top:15px;}
+.opTopTitle p {height: 20px; margin-bottom: 0; font-size: 11px; color: #54667a; font-weight: 400; line-height: 15px;}
+.imglstDestinos .opTexto { line-height: 14px; padding-top:2px;}
+.imglstDestinos .opTexto a { font-size: 14px; text-decoration: none; color: #54667a; line-height: 15px }    
+  
+/*Black Friday*/
+.topDestinosBF {   text-transform: uppercase; margin-bottom: 15px; }
+.topDestinosBF span { font-size: 60px;}
+.topDestinosBF strong { font-size: 60px;line-height: 25px;}
+.circBF { width: 30px; height: 30px; border-radius: 30px; background: #000000;}
+.circBF p { color: #ffffff; font-size: 18px;padding-top: 1px; }
+.topLstDestinoBF .destino {line-height: 14px;}
+.topLstDestinoBF .destino a { font-size: 13px; text-decoration: none; text-transform: uppercase; color: #000000; line-height: 14px; font-weight:700;/*letter-spacing: -1px;*/ }
+.topLstDestinoBF .texto {line-height: 12px;}
+.topLstDestinoBF .texto a { font-size: 12px; text-decoration: none; color: #000000; line-height: 13px }
+.topPrecoBF a { font-size: 18px; color: #ff4314; text-decoration: none; font-weight: 700; }
+.topPrecoAntesBF a { font-size: 14px; color: #000000; text-decoration: none; font-weight: 700; text-decoration: line-through;display:block; margin-top:1px;}
+/*------------*/    
+
+/*Homepage - Image List*/
+.textLista small { font-size: 13px; color: #FFFFFF; text-transform: uppercase; }
+.textLista p { font-size: 40px; line-height: 40px; margin: 0; font-weight: 700; color: #FFFFFF; text-transform: uppercase; margin-bottom: 15px; }
+.textLista span[class^=icon-] { color: #ffffff; font-size: 35px; width: 45px; height: 45px; border-radius: 50%; /*background: #31d100;*/ padding: 10px; }
+
+/*Destaques*/
+.mrec h1 { font-size: 14px; color: #a9a9a9; font-weight: 700; margin-top: 0; }
+.lrec h1 { font-size: 20px; color: #54667a; font-weight: 400; text-transform: uppercase; }
+.lrec img { margin-top: 10px; }
+
+.pubProd a.emDestaque {height:325px}
+.pubProd .emDestaque{height:90px;}
+.emDestaque h2 {font-size: 28px;line-height: 28px;width:65%}
+.emDestaque h3 {font-size: 13px;line-height: 13px;display:block;}
+.emDestaque p { display:block;}
+.emDestaque .desde {font-size: 12px;line-height: 14px;}
+.emDestaque .preco {font-size: 24px;line-height: 26px;width:25%;margin-top:15px;}
+.pubProd .verOferta {padding:7px 15px; font-size:14px; margin-top: 10px;}
+.pubProd div:not(.bxslider) a {margin-top:15px;}
+.pubProd .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {/*bottom:130px;*/right: 10px;}   
+
+/*Quad Prod*/
+.dskProduto .dskDestino { position: absolute; bottom: 7%; left: 4%; line-height:25px;}
+.dskProduto .dskDestino p {  font-size: 25px; font-weight: 700; color: #FFFFFF; }
+.dskProduto:hover .dskInfo {display:none;}
+.dskProduto .dskInfo { position: absolute; bottom: 1%; left: 4%; line-height:14px;}
+.dskProduto .dskInfo p { font-size: 16px; color: #FFFFFF; }
+.dskProduto:hover .dskPreco {display:none;}
+.dskProduto .dskPreco { position: absolute; bottom: 7%; right: 4%; color: #FFFFFF; line-height:25px;}
+.dskProduto .dskPreco p { font-size: 25px; font-weight: 700; }
+
+.dskTOP5 { margin-bottom: 30px;position: relative; background-color: #FFFFFF; }
+.dskTOP5 .titTop5 { position: absolute; top: 15px; left: 15px; text-transform: uppercase; font-size: 50px; color: #FFFFFF; font-weight: 300; line-height: 50px; margin: 0; padding: 0; }
+.dskTOP5 .infoTOP5 { background-color: #FFFFFF; padding-top: 15px; padding-bottom: 12px; }
+.dskTOP5 .infoTOP5 .numTop5 { font-size: 40px; color: #40c5a4; font-weight: 300; line-height: 40px; }
+.dskTOP5 .infoTOP5 .destinoTop5 h1 { font-size: 20px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskTOP5 .infoTOP5 .destinoTop5 p { font-size: 13px; color: #54667a; font-weight: 400; line-height: 15px; }
+.dskTOP5 .infoTOP5 .precoTop5 { font-size: 25px; color: #158cba; font-weight: 400; }
+
+/*Quad Lista*/  
+.dskLista { margin-bottom: 30px;position: relative; background-color: #F1F1F1; }
+.dskLista .titTop5 { position: absolute; top: 15px; left: 15px; text-transform: uppercase; font-size: 50px; color: #FFFFFF; font-weight: 300; line-height: 50px; margin: 0; padding: 0; }
+.dskLista .infoTOP5 { background-color: #F1F1F1; padding-top: 15px; padding-bottom: 12px; }
+.dskLista .infoTOP5 .numTop5 { font-size: 40px; color: #40c5a4; font-weight: 300; line-height: 40px; }
+.dskLista .infoTOP5 .destinoTop5 h1 { font-size: 20px; color: #54667a; font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5 .destinoTop5 p { font-size: 13px; color: #54667a; font-weight: 400; line-height: 15px; }
+.dskLista .infoTOP5 .precoTop5 { font-size: 25px; color: #158cba; font-weight: 400; }  
+  
+.dskLista .infoTOP5BF .destinoTop5 h1 { font-size: 20px;  font-weight: 700; margin: 0px; text-transform: uppercase; }
+.dskLista .infoTOP5BF .destinoTop5 p { font-size: 13px;  font-weight: 400; line-height: 15px; }
+.dskLista .infoTOP5BF .precoTop5 { font-size: 25px;  font-weight: 400; }   
+
+/*Topo Pesquisa*/
+.titPesquisa { color: #54667a; font-size: 25px; line-height:27px;text-align: center; font-weight: 300; }
+.titPesquisa .paragraphText span[class^='icon'] { color: #158cba; margin-right: 15px; font-size: 60px;}
+
+/* Promoções */
+.topMask230 {height:84%;}
+
+.promoBlock {height: 285px;}
+.promoBlock .prmContador .validade {font-size:10px!important;padding:10px!important;height:100%!important;width: 75px;text-align: left;margin-top: 0px;}
+.promoBlock .prmContador {margin-top:0;}
+.promoBlock .prmContador p {text-align:right!important;}
+.promoBlock .prmInfo p, .promoBlockSm .prmInfo p {width:60%}
+.promoBlockImage { height: 285px; }
+.promoBlockSm {height: 200px;}
+.promoBlockImageSm { height: 200px; } 
+  
+/*Destaque 1 Produto*/
+.promoBlock1P { height: 210px;margin-top:0;}
+.promoBlock1P .prmInfo p {width:60%}
+.promoBlockImage1P { height: 250px; margin-top:0;}
+.promoBlockImage1P .circle-bar {top:15px; right:15px;left:auto;bottom:auto;width:105px;height:105px;border-radius:50%;padding:0;} 
+.promoBlockImage1P .circle-bar h2 {font-size: 16px; line-height: 19px;margin-top:35px}
+.promoBlockImage1P .circle-bar h2 b {font-weight: 700;font-size:18px;}  
+.promoBlock1P hr {margin-top:10px;margin-bottom:10px;border: 0;height: 1px; background-color: #D4D8DD;}
+.promoBlock1P .prmDestino h2 {font-size: 30px; line-height: 30px; text-align:left; }
+.promoBlock1P .prmDestino p { font-size: 16px; line-height: 16px;margin-top: 2px; text-align:left; }
+.promoBlock1P .prmInfo {width: 60%;  float: left;}
+.promoBlock1P .prmInfo p { font-size: 13px;font-weight: 400;color: #54667a;line-height: 15px;margin-top: 0;text-align: left;width:95%}
+.promoBlock1P .prmExtra {width: 40%;float: left;}
+.promoBlock1P .prmExtra p {font-size: 15px;font-weight: 700;color: #586A7D;line-height: 18px; margin-top: 0;text-align: right;}  
+.promoBlock1P .prmPreco span { font-size: 12px; line-height: 12px; }
+.promoBlock1P .prmPreco p { font-size: 40px; font-weight: 700; color: #158cba; line-height: 35px; float: right; }  
+.promoBlock1P .prmVerOfertas { position: absolute; bottom: 15px; left: 15px }
+  
+.pubProd .circle-bar {top:auto; right:auto;left:15px;bottom:15px;width:105px;height:105px;border-radius:50%;padding:0;} 
+.pubProd .circle-bar h2 {margin-top:35px;text-align:center;}
+.pubProd .circle-bar h1 {margin-top:35px;text-align:center;}
+.pubProd .circle-bar h2 b {font-weight: 700;font-size:15px;margin-left:10px;}
+.pubProd .circle-bar h2 span {font-weight: 400;font-size:16px;line-height: 20px;margin-left: 20px;display: block;}
+.pubProd .circle-bar h1 b {font-weight: 700;font-size:18px;margin-left: 20px;}
+.pubProd .circle-bar h1 span {font-weight: 400;font-size:16px;line-height:10px;margin-left:18px;}
+
+/*BF*/
+.promoBlockBF {height: 285px;}
+.promoBlockBF .prmContador .validade {font-size:10px!important;padding:10px!important;height:100%!important;width: 75px;text-align: left;margin-top: 0px;}
+.promoBlockBF .prmContador {margin-top:0;}
+.promoBlockBF .prmContador p {text-align:right!important;}
+.promoBlockBF .prmInfo p, .promoBlockSmBF .prmInfo p {width:60%}
+.promoBlockImage { height: 285px; }
+.promoBlockSmBF {height: 200px;}
+.promoBlockImageSm { height: 200px; } 
+  
+.margemT180B30 { margin-top: 100px; margin-bottom: 15px;}
+.lstBlockPromo {margin-bottom: 30px;}
+.lstPromocoes { font-size: 35px; line-height: 35px;  }
+.lstPromocoesText {font-size: 16px; font-weight: 400;color: #FFFFFF; line-height: 18px;  margin-top: 20px;width:100%;}
+
+.lstLista .destino a { font-size: 13px; line-height: 14px; }
+.lstLista .texto a { font-size: 12px; line-height: 13px; }
+.lstLista .topPreco a { font-size: 20px; line-height: 20px; }
+
+.textPrmLista { position: absolute; top: 15%; width: 100%; height: 100%; text-align: center; display: table; margin-bottom: 0px; }
+.textPrmLista small { font-size: 14px; line-height: 27px; }
+.textPrmLista p { font-size: 40px; line-height: 40px;}
+
+.iconPrm span[class^="icon"] { font-size: 35px;padding: 15px; }
+
+.lstPrmDestinos .destino a { font-size: 18px; line-height: 18px; }
+.lstPrmDestinos .texto a { font-size: 15px; line-height: 17px }
+.lstPrmPreco a { font-size: 20px; }
+.lstPrmSeta {padding-top:5px;}
+.lstPrmSeta a { font-size: 16px; }
+
+/*Tabs*/
+.tabInfoDestino {margin-top:10px; margin-bottom:15px;}
+.tabInfoDestino h1 {font-size: 16px; line-height: 18px; color: #54667a; font-weight: 700; }
+.tabInfoDestino p { font-size: 14px; line-height: 17px; color: #54667a; font-weight: 400; margin-top:5px}
+
+/*Carrousel*/
+.carousel-control.left { margin-left: 25px; margin-top: 48%; }
+.carousel-control.right { margin-right: 25px; margin-top: 48%; }
+.carousel-control .icon-seta-esquerda-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-control .icon-seta-direita-fina { font-size: 25px; color: #FFFFFF; }
+
+/*Exclusivo top Header*/
+.tabTopInfoArea {margin-bottom:30px;}
+
+.quadHotel .scrLocal { position: absolute; Bottom: 3%; left: 3%; }
+.quadHotel .scrLocal p { margin: 0; font-size: 13px; line-height: 13px; font-weight: 300; text-transform: uppercase; color: #FFFFFF; }
+
+/*Tabela Hoteis*/
+.maisVendidoTitle {font-family: Lato, sans-serif; font-size: 40px; line-height: 45px; font-weight: 300; color: #158cba;}
+.melhorPreco {float:right;font-family: Lato, sans-serif; font-size: 45px; line-height: 45px; font-weight: 400; color: #54667a;}
+.maisInclui {float:left;margin-right:15px;}
+.maisInclui p { float: left; color: #54667a; font-size: 20px; margin-right: 5px; margin-top:0; margin-bottom:0; margin-left:0;}
+.maisInclui .icon-rent-a-car { float: left; color: #158cba; font-size: 25px; width: 25px; height: 25px; margin-top: 3px; }
+
+.htlNumber .icon-nada { position: relative; color: #158cba; font-size: 48px; width: 48px; height: 48px; }
+.htlNumber .icon-nada .star { font-family: Lato, sans-serif; font-size: 30px; line-height: 30px; font-weight: 300; color: #158cba; position: absolute; top: 15%; left: 30%; }
+
+/*Contactos TOP*/
+.cntTop .paragraphText h1 {font-size:18px; color:#158cba;line-height:22px;font-weight:300;margin-top:15px;}
+.cntTop .paragraphText * {font-size:12px; color:#54667a;line-height:15px;font-weight:300;margin-bottom:15px;}
+
+/*Recrutamento*/
+.cdtFicha .maximoTamanho {font-size:16px;padding-top:21px;}
+
+/*Formularios*/
+.DMForms .maximoTamanho {font-size: 16px;padding-top: 21px;}
+
+/************* ATC ***************/
+.jmbPages h1 { font-size: 30px; line-height: 33px; margin-bottom: 15px; }
+.jmbPages h2 { font-size: 25px; line-height: 28px; margin-bottom: 15px; }
+.jmbPages .paragraphText { font-size: 14px; line-height: 21px; margin-bottom: 15px; }
+.jmbPages .paragraphButton { margin-top: 15px; line-height: 30px; }
+.jmbPages .paragraphButton a { font-size: 16px; padding: 10px 40px; }
+/*Carrousel*/
+.carousel-control.left { margin-left: 80%; margin-top: 25px; }
+.carousel-control.right { margin-right: 25px; margin-top: 25px; }
+.carousel-control .icon-seta-esquerda-fina { font-size: 25px; color: #FFFFFF; }
+.carousel-control .icon-seta-direita-fina { font-size: 25px; color: #FFFFFF; }
+  
+.genericHeader img.imgBF {position:relative;  min-width: auto; min-height: auto;margin-left:0; width:215px;}
+ 
+  /*Pop Up*/
+   #pop .modal-dialog {position: relative; width: 470px; margin: auto;margin-top:30px;}
+   #pop .modal-content {color: #fff;padding: 0;background-image: url('/files/Billeder/Abreu2016/PopUp/popLG.jpg');background-size: cover;height:600px;}
+   #pop button.close {width: 35px;height: 35px;font-size:30px;padding-bottom: 2px;}
+   #pop .modal-body {padding: 15px;}
+   #pop input[type="email"] {font-size:22px !important;}
+   #pop input[type="submit"] {font-size:22px;}
+  
+  .titMAbreu p {font-size:20px;line-height:25px;}
+  
+.imgHeightControl {height:215px;}
+  
+.MaSelecao .select { padding:0; margin-top:10px; width: 110px; height: 110px; border-radius: 50%; display:inline-block !important; background:#FFFFFF;transition: background-color 0.5s ease; background-color: #FFFFFF;}
+.MaSelecao .select a p {font-family: Lato, sans-serif;color: #212121;font-size: 13px;line-height: 15px;font-weight: 400;text-decoration: none;margin: 0;padding-top: 10px;}
+.MaSelecao .select:hover { margin-top:10px; width: 110px; height: 110px; border-radius: 50%; display:inline-block !important; background:#FF1762; }
+.MaSelecao .select:hover a p{color:#ffffff;text-decoration: none;}
+.MaSelecao .select a[class^=icon-] {color: #212121;font-size: 30px;padding: 0;padding-top: 0px;padding-top: 20px;display: inline-block;width: 100%;text-decoration: none;}
+.MaSelecao .select:hover a[class^=icon-] {color: #ffffff;}
+
+  .MaCircle h2, .MaCircle h2 a {text-decoration:none !important;display:inline-block;width:100%; color: #1A1A1A; font-size: 28px; line-height: 31px; font-weight: 700; /*height: 38px; text-transform: uppercase;*/ margin-top: 0; margin-bottom: 0; }
+.MaCircle span {display:inline-block;width:100%;color: #1A1A1A; font-size: 17px; line-height: 16px; font-weight: 400;margin-bottom: 5px;}
+  .MaCircle img { margin-top:10px; width: 350px; height: 350px; border-radius: 50%; display:inline-block !important;}
+  
+}
+
+@media (min-width: 301px) and (max-width: 489px) {
+.emDestaque h2{font-size: 20px;line-height: 22px;width: 52%;}
+.pubProd .destaqueBar{height:75px;}
+.emDestaque .desde {font-size: 12px;line-height: 14px;}
+.emDestaque .preco {font-size: 18px;line-height: 20px;width:25%;margin-top:10px;}
+.pubProd .verOferta {padding: 3px 8px;font-size: 10px;margin-top: 5px;}
+}
+
+@media (min-width: 300px) and (max-width: 490px) {
+.txt_patrocinios {font-size: 20px !important;}
+}

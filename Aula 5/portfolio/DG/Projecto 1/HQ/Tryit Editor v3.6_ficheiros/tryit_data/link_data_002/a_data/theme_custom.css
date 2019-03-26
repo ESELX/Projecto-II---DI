@@ -1,0 +1,67 @@
+/****************************STRAT THEME_COLOR_1****************************/
+
+.custom-radio input[type=radio]:checked+span, .products-sort-order .select-list:hover, .tvcmscart-show-dropdown .tvcart-product-list-total-info .tvcart-product-list-checkout a:hover, .tvcmsquick-view-popup .tvsocial-sharing ul li:hover, .tvproduct-content .tvproduct-tabs li a.active, .tvproduct-content .tvproduct-detail .active, #address .form-footer button, .tvcms-newsletter .tvnewsletter-btn, .tvcms-newsletter .tv-mobile-view-btn, .tvcmsmain-video .tvmain-video-play button, #product_comparison .product-add-to-cart .btn, .tvcmstestimonial-slider .tvtestimonial-block, .tvReviews .btn, .tvcontact-us-attachment .input-group-btn .btn, .tvcmscontact-us .tvcontact-us-button .btn, .tvlogin-btn .btn, .wishlistLinkTop .tvwishlist-send-mess-btn button, .tvcmswishlist .wishlistLinkTop .wlp_bought_item_container .product_infos .btn_action a, .tvcmswishlist .tvwishlist-btn .btn, #module-tvcmswishlist-view .wlp_bought_list li button, #module-tvcmswishlist-view .wlp_bought_list li .lnk_view, .tvcmsregister-form .form-footer .btn, #checkout .tvall-inner-page-box .tvall-inner-page-process .form-footer button, .tvcms-blog-inner-page .btn, #id_new_comment_form .title, .tvreviews-popup-send-btn button, .tvcmsforget-password .btn, .page-footer button, .tvcms-box-layout .form-footer .btn, .tvcms-box-layout .form-footer a.btn, .tvcmsproduct-cart-popup .tvproduct-cart-btn button, .tvcmsproduct-cart-popup .tvproduct-cart-btn a.btn:hover, .cart-detailed-actions button.btn, .checkout button.btn, .tvcmsshopping-cart a.btn, .cart-grid-right .cart-detailed-actions a.btn, #identity .form-footer button, .tvcmsaddress-process button.btn, .delivery-options-list button, #payment-confirmation button.btn, #order-detail .form-footer button, .pagination .page-list .tvpage-list-pagination a:hover, .tvyour-account-btn .tvyour-account-signout.btn, .tvproduct-content .tvsocial-sharing ul li:hover, .tvcmsmain-block .tvmain-block-btn button, .tvcmstheme-control .tvtheme-control-icon, .tvtheme-control-wrapper .tvtheme-option .btn-primary, .tvcmsnews-event .tv-main-title a h2:after, .tvcmstestimonial-slider .tvtitle:after, .tvcmstab-main-title .tvtab-name.active, .tvcmsleft-special-product .tvleft-special-product-title h1:after, .tvcmsleft-new-product .tvleft-new-product-title h1:after, .tvcmsleftpannel-testimonial-slider .tvleft-testimonial-wrapper-info h1:after, .tvcmsheader-top-menu, .tvcmsfooter-link, .tvmain-product-title .tvmain-product-title-content:after, #module-tvcmswishlist-view .wlp_bought_list li .ajax_add_to_cart_button {
+    background-color: #E84253;
+}
+.btn-link, .page-link, .text-primary, .search-widget form input[type=text]:focus+button .search, .search-widget form button[type=submit] .search:hover, .page-my-account #content .links a:hover i, #my-account #content .tvyour-account-wishlist:hover i, .carousel .carousel-control .icon-next:hover i, .carousel .carousel-control .icon-prev:hover i, #products .highlighted-informations .quick-view:hover, .featured-products .highlighted-informations .quick-view:hover, .product-accessories .highlighted-informations .quick-view:hover, .product-miniature .highlighted-informations .quick-view:hover, .pagination .current a, .block-categories .arrows .arrow-down:hover, .block-categories .arrows .arrow-right:hover, .cart-grid-body a.label:hover, .block_newsletter form input[type=text]:focus+button .search, .block_newsletter form button[type=submit] .search:hover, .account-list a:hover, .footer-container li a:hover, #header .tvcms-header-nav .blockcart a:hover, #header .header-nav .user-info .logged, #content-wrapper #js-product-list-top .tvcmsproduct-grid-list .tvproduct-grid.active, #content-wrapper #js-product-list-top .tvcmsproduct-grid-list .tvproduct-list.active, .tvcms-newsletter .tvnewsletter-icon, .tvcmswishlist .tvwishlist-info .tvwishlist-view-link a, .tvcmsorder-history .order-actions a:hover, #checkout-personal-information-step .nav .nav-item .nav-link:hover, .tvcmsspecial-product .tvspecial-product-timer .days, .tvcmsspecial-product .tvspecial-product-timer .hours, .tvcmsspecial-product .tvspecial-product-timer .minutes, .tvcmsspecial-product .tvspecial-product-timer .seconds {
+    color: #E84253;
+}
+/****************************END THEME_COLOR_1****************************/
+
+.tabs .nav-tabs .nav-link.active, .tabs .nav-tabs .nav-link:hover, .tvproduct-content .tvproduct-tabs {
+    border-bottom: 2px solid #E84253;
+}
+.pagination .page-list .tvpage-list-pagination a:hover {
+    border: 1px solid #E84253;
+}
+/*************************START THEME_COLOR_2************************/
+
+.tvcmsmain-slider .tvmain-slider-btn, .tvcmsnews-event .tvdate-time, .tvtheme-control-wrapper .tvtheme-control-reset, .tvcmstab-main-title .tvtab-name:hover:before, .tvcmsheader-search .tvheader-top-search button:hover, .tvcmsmain-video .tvmain-video-play button:hover, .tvimagegallary-hoverbtn .tvimagegallary-buttons .material-icons:hover, .tvcmstheme-control .tvtheme-control-icon:hover, .tvcontact-number-info .tvcontact-icon, .tvcmswishlist .tvwishlist-top .tvwishlist-number, .tvcmsdesktop-view-compare .tvdesktop-view-compare-name .count-product, .tvheader-shopping-cart-wrapper .tvshopping-cart-inner, .tvcmsspecial-product .tvspecial-product-cart-btn, .tvcmsspecial-product .tvspecial-product-quick-view, .tvcmsheader-search .tvheader-top-search-wrapper button:hover, #header .tvcmswishlist .tvwishlist-top .tvwishlist-number, #header .tvcmsdesktop-view-compare .tvdesktop-view-compare-name .count-product, .tvcmstab-main-title .tvtab-name:before {
+    background-color: #ffffff;
+}
+.tvcms-horizontal-menu>ul>li.current>a, .tvcmsmain-slider .tvmain-slider-contant .tvmain-slider-title, .tvcmstestimonial-slider .tvtestimonial-title, .tvcmstestimonial-slider .tvtestimonial-next-pre-btn .tvcmsmain-prev:hover::before, .tvcmstestimonial-slider .tvtestimonial-next-pre-btn .tvcmsmain-next:hover::before, .tvcmsnews-event .tvnews-event-hoverbtn .tvnews-event-buttons .material-icons:hover, .tvheader-nav-right .tvlanguage .dropdown-menu a:hover, .tvheader-nav-right .tvcurrency .dropdown-menu a:hover, .tvheader-nav-right .tvuser-info .dropdown-menu a:hover, .tvcmsleftpannel-testimonial-slider .tvleftpannel-testimonial-title, .tvheader-nav-right .tvlanguage:hover span, .tvheader-nav-right .tvlanguage:hover i, .tvheader-nav-right .tvcurrency:hover span, .tvheader-nav-right .tvcurrency:hover i, .tvheader-nav-right .tvuser-info:hover span, .tvheader-nav-right .tvuser-info:hover i, .tvcms-horizontal-menu>ul>li.current>a i, .tvcmsfooter-link .tvfooter-copylink .tvcopylink p:hover {
+    color: #ffffff;
+}
+.tvcmsspecial-product .tvproduct-slider {
+    border: 1px solid #ffffff;
+}
+/*************************END THEME_COLOR_2************************/
+
+.tvcmstheme-control .tvtheme-control-icon:hover i, .tvcontact-number-info .tvcontact-icon i, .tvcmswishlist .tvwishlist-top .tvwishlist-number, .tvcmsdesktop-view-compare .tvdesktop-view-compare-name .count-product, .tvheader-shopping-cart-wrapper .tvshopping-cart-inner, .tvcmstab-main-title .tvtab-name:hover, .tvcmsspecial-product .tvspecial-product-cart-btn button span, .tvcmsspecial-product .tvspecial-product-quick-view span, .tvtheme-control-wrapper .tvtheme-control-reset, .tvcmsheader-search .tvheader-top-search-wrapper button:hover .tvserach-name, .tvcmsheader-search .tvheader-top-search-wrapper button:hover i {
+    color: #FFF;
+}
+.tvcms-horizontal-menu>ul>li>a:hover, .tvcms-horizontal-menu>ul>li>a:hover i {
+    color: #000;
+}
+#header .tvcmswishlist .tvwishlist-top .tvwishlist-number, #header .tvcmsdesktop-view-compare .tvdesktop-view-compare-name .count-product {
+    color: #fff;
+}
+#_desktop_wishtlistTop .tvwishlist-name i:hover, .tvcmsdesktop-view-compare .tvdesktop-view-compare i:hover, .tvcmsheader-shopping-cart .tvshopping-cart-icon i:hover {
+    color: #ffffff;
+}
+#identity .form-footer button, #address .form-footer button {
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px #8A8A8A;
+}
+#identity .form-footer button:hover, #address .form-footer button:hover {
+    background: #D03545;
+}
+.customer-account-menu>#block_myaccount_infos {
+    margin-top: 50px;
+}
+
+.maincategory-header-img img{
+    max-height: 144px; 
+    max-width: 100%
+}
+.maincategory-header-text h2 {
+    color: white;
+    font-weight: 700;
+    padding-left: 15px;
+}
+.maincategory-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
