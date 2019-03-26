@@ -19,5 +19,5 @@ Em vez da aula de 29 de Março, ficou agendada uma **aula para dia 5 de Abril à
 
 Nas Aula dos dias **27 de Março (Turma J), 1 de Abril (Turma L), 5 de Abril (Turma M)**,
 os alunos deverão organizar-se **em grupos de 4 alunos** (3 extraordinariamente) e trazer (de modo organizado) o seguinte material:
-1. 3 cartolinas;
+1. 3 cartolinas **brancas** formato 50x70;
 2. 4 marcadores, ponta grossa, de cores diferentes.
