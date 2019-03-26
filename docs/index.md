@@ -3,11 +3,12 @@ layout: default
 title: Design de Interacção I - Projecto II - AVT ESELX
 ---
 
-[AULAS](index.html) | [PROGRAMA](programa.html) | [REFERÊNCIAS](refs.html) | [Professor](http://steam228.com)
+[AULAS](index.html) | [AVISOS](vipstuff.html) | [PROGRAMA](programa.html) | [REFERÊNCIAS](refs.html) | [Professor](http://steam228.com)
 
 
 # Aulas
 
+---
 ## Aula 5
 
 - Revisão GIT/HTML;
@@ -25,10 +26,7 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 - Pontos extra para quem mantiver um "Diário de Bordo" das experiencias, avanços e recuos, em Markdown, no ficheiro README.md.
 
 
-
-
-
-
+---
 ## Aula 4
 
 - Revisão GIT;
