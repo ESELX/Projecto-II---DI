@@ -8,6 +8,19 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 
 # Aulas
 
+
+---
+## Aula 5 e 1/2 (apenas turma J) - Será trabalho de casa para as demais turmas.
+
+- Fechar e justificar escolha do tema;
+- Planear trabalho no website portfolio até ao final da pausa lectiva;
+- praticar Markdown colocando toda esta informação no ficheiro README.
+
+### Refs Aula
+
+- [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+
 ---
 ## Aula 5
 
