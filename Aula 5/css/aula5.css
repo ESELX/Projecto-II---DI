@@ -3,11 +3,9 @@ body {
   text-align: center;
   margin-left: 10vw;
   margin-right: 10vw;
-
+  background-color: green;
 
 }
-
-
 
 h1 {
   font-size: 3.5em;
@@ -26,15 +24,13 @@ p {
 
 
 
-
 @media only screen and (max-width: 400px) {
 
   body {
-
     text-align: center;
     margin-left: 5vw;
     margin-right: 5vw;
-
+    background-color: red;
   }
 
   h1 {
