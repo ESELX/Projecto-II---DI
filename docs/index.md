@@ -17,11 +17,11 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 ### Refs Aula
 
 - [Processing](https://processing.org/)
-[Hour of Code](https://hello.processing.org/)
+- [Hour of Code](https://hello.processing.org/)
 
 ### TPC
 
-- Enviar para o e-mail do Professor fotografias dos resultados obtidos em aula.
+- (opcional) - Criar um AVATAR só com as shapes presentes na reference.
 
 
 ---
