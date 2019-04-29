@@ -17,6 +17,7 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 ### Refs Aula
 
 - [Processing](https://processing.org/)
+[Hour of Code](https://hello.processing.org/)
 
 ### TPC
 
