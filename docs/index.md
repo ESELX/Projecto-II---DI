@@ -10,6 +10,35 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 
 
 ---
+## Aula 7
+
+- Introdução ao Processing
+
+### Refs Aula
+
+- [Processing](https://processing.org/)
+
+### TPC
+
+- Enviar para o e-mail do Professor fotografias dos resultados obtidos em aula.
+
+
+---
+## Aula 6
+
+- Breve Introdução à Algoritmia e Programação
+- Conditional Design
+
+### Refs Aula
+
+- [Conditional Design Workbook](https://conditionaldesign.org/)
+
+### TPC
+
+- Enviar para o e-mail do Professor fotografias dos resultados obtidos em aula.
+
+
+---
 ## Aula 5 e 1/2 (apenas turma J) - Será trabalho de casa para as demais turmas.
 
 - Fechar e justificar escolha do tema;
