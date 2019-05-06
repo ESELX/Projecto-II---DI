@@ -8,7 +8,21 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 
 # Aulas
 
+---
+## Aula 8
 
+- Variáveis em Programação - Processing;
+- introdução ao Ciclos
+
+
+
+### TPC
+
+- Estudar!!! - Tenho-me apercebido que a generalidade dos alunos não estão a acompanhar estes sumários com tópicos de estudo nem a ver os exemplos que vou deixando, aula a aula no repositório!
+- Guardem estes links nos vossos favoritos:
+  - [Sumários - AQUI](https://eselx.github.io/Projecto-II---DI/)
+  - [Repositório com Exemplos das Aulas!!!](https://github.com/ESELX/Projecto-II---DI/)
+  - [Issues - Onde tirar dúvidas!!!](https://github.com/ESELX/Projecto-II---DI/issues)
 ---
 ## Aula 7
 
