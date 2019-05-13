@@ -9,6 +9,20 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 # Aulas
 
 ---
+## Aula 9
+
+- Funções em Programação - Processing;
+- introdução ao Ciclos;
+- P5js (como funciona em relação ao Processing)
+
+
+### TPC
+
+
+
+
+
+---
 ## Aula 8
 
 - Variáveis em Programação - Processing;
