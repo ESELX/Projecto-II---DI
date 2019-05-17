@@ -18,14 +18,11 @@ background(20,40,200);
 diam = random(20,60);
 desenha();
 
-if (mousePressed){
+if (keyPressed && ( key == 'f' || key == 'F')){
  dispara(mouseX,mouseY); 
 }
 
 }
-
-
-
 
 
 
