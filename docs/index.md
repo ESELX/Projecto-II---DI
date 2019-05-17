@@ -15,11 +15,10 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 - introdução ao Ciclos;
 - P5js (como funciona em relação ao Processing)
 
+### Refs Aula
 
-### TPC
-
-
-
+- [Open Processing!!](https://www.openprocessing.org/)
+- [Hour of Code](https://hello.processing.org/)
 
 
 ---
