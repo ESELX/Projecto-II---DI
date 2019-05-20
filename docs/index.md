@@ -8,6 +8,29 @@ title: Design de Interacção I - Projecto II - AVT ESELX
 
 # Aulas
 
+
+---
+## Aula 11
+
+- Revisão;
+- Apresentação de Procedimentos Entrega (ver link infra)
+- Apoio a Projectos.
+
+### Refs Aula
+
+- [SITE COM LINKS ALUNOS](https://eselx.github.io/)
+
+
+---
+## Aula 10
+
+- (continuação da Aula Anterior)
+- Funções em Programação - Processing;
+- introdução ao Ciclos;
+- P5js (como funciona em relação ao Processing)
+
+
+
 ---
 ## Aula 9
 
